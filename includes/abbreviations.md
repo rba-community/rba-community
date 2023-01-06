@@ -3,3 +3,4 @@
 *[SPL]: Search Processing Language
 *[A&I]: Assets and Identities
 *[DMA]: Datamodel Acceleration
+*[ES]: Splunk Enterprise Security
