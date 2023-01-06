@@ -4,4 +4,4 @@
 
 ## Landing Page
 
-[https://www.rba.community](https://www.rba.community)
+[https://rba.community](https://rba.community)
