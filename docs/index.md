@@ -1,11 +1,8 @@
----
-hide:
-    - navigation
-    - toc
----
-# RBA Community
+# Welcome to the RBA Community :wave_tone5: :wave_tone1: :wave_tone3: :wave_tone4: :wave_tone2:
 
-## :wave: Welcome to the RBA Community!
+![Image title](/assets/rba_community.png){ align=right width=350 }
+
+## About the Community
 
 The RBA Community is a group of professionals dedicated to advancing the field of risk-based alerting (RBA) and Splunk Enterprise Security (ES). Our mission is to provide a forum for sharing knowledge, best practices, and the latest developments in RBA and ES, and to help professionals enhance their understanding and skills in these areas.
 
@@ -13,28 +10,21 @@ Our vision is to be the go-to resource for anyone looking to learn more about RB
 
 Whether you’re new to RBA and ES or a seasoned pro, The RBA Community has something for everyone. We invite you to join us on this journey to enhance your understanding and expertise in RBA and ES – don’t miss out on this opportunity to learn from the best and connect with other professionals in the field.
 
+## Monthly Meetups
+
+### Community Meetups
+
+The RBA Community Monthly Meetups are a chance for members of the community to come together, learn from guest speakers, play trivia, and ask questions about risk-based alerting and Splunk Enterprise Security. These meetups provide an opportunity for members to stay up-to-date on the latest developments and best practices in the field, as well as connect with other professionals who are interested in RBA. Whether you’re a newcomer to the community or an experienced member, there’s something for everyone at the RBA Community Monthly Meetups. So come join us and be a part of the conversation!
+
+[RSVP to Community Meetups :octicons-link-external-16:](https://splunk.webex.com/webappng/sites/splunk/webinar/webinarSeries/register/341d3ab1cfad4b85a23eea7e1969d58d "RSVP to Community Meetups"){ .md-button .md-button--primary target="_blank" }
+
+### "The Office" Hours
+
+"The Office" Hours is a monthly webinar series that provides a platform for members of the RBA Community to ask questions and get expert insights on risk-based alerting and Splunk Enterprise Security. Hosted by Elizabeth, Ryan, and [ZachTheSplunker](https://zachthesplunker.com/){ target="_blank" }, these sessions are an “ask me anything” format where attendees can submit questions in advance or ask them live during the webinar. Each episode features subject matter experts from the community who are knowledgeable about RBA and willing to share their expertise with attendees. If you’re looking for answers to your questions about RBA, ES, or the RBA Community, “The Office” Hours is the perfect place to get them. If you’re an RBA subject matter expert and would like to be a panelist, please don’t hesitate to contact us!
+
+[RSVP to "The Office" Hours :octicons-link-external-16:](https://splunk.webex.com/webappng/sites/splunk/webinar/webinarSeries/register/bf449ac6ee3042bf81ac93c118d9c8d9 "RSVP to The Office Hours"){ .md-button .md-button--primary target="_blank" }
+
 ## Community Resources
-
-``` markdown title="Monthly Meetups"
-    Join us for our monthly meetups!
-```
-
-<div class="result" markdown>
-
-![RBA Community](assets/rba_community.png){ align=left width=200 }
-
-??? info "Community Meetups (click for details)"
-    The RBA Community Monthly Meetups are a chance for members of the community to come together, learn from guest speakers, play trivia, and ask questions about risk-based alerting and Splunk Enterprise Security. These meetups provide an opportunity for members to stay up-to-date on the latest developments and best practices in the field, as well as connect with other professionals who are interested in RBA. Whether you’re a newcomer to the community or an experienced member, there’s something for everyone at the RBA Community Monthly Meetups. So come join us and be a part of the conversation!
-
-??? info "The Office Hours (click for details)"
-    "The Office" Hours is a monthly webinar series that provides a platform for members of the RBA Community to ask questions and get expert insights on risk-based alerting and Splunk Enterprise Security. Hosted by Elizabeth, Ryan, and [ZachTheSplunker](https://zachthesplunker.com/){ target="_blank" }, these sessions are an “ask me anything” format where attendees can submit questions in advance or ask them live during the webinar. Each episode features subject matter experts from the community who are knowledgeable about RBA and willing to share their expertise with attendees. If you’re looking for answers to your questions about RBA, ES, or the RBA Community, “The Office” Hours is the perfect place to get them. If you’re an RBA subject matter expert and would like to be a panelist, please don’t hesitate to contact us!
-
-[Community Meetups Registration](https://splunk.webex.com/webappng/sites/splunk/webinar/webinarSeries/register/341d3ab1cfad4b85a23eea7e1969d58d "Register for Community Meetups"){ .md-button .md-button--primary target="_blank" }
-["The Office" Hours Registration](https://splunk.webex.com/webappng/sites/splunk/webinar/webinarSeries/register/bf449ac6ee3042bf81ac93c118d9c8d9 "Register for The Office Hours"){ .md-button .md-button--primary target="_blank" }
-
-</div>
-
----
 
 ``` markdown title="Wakelet"
     Centralized RBA Resources

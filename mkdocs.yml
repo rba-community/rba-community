@@ -1,4 +1,4 @@
-site_name: RBA Community
+site_name: The RBA Community
 # edit_uri: ""
 # repo_url: https://github.com/ZachChristensen28/rba-community
 # repo_name: ZachChristensen28/rba-community
@@ -42,14 +42,14 @@ theme:
   favicon: assets/rba_community.png
   features:
     # - header.autohide
-    # - navigation.indexes
-    # - navigation.instant
+    - navigation.indexes
+    - navigation.instant
     # - navigation.tabs
-    # - navigation.sections
-    # - navigation.top
-    # - toc.integrate
-    # - toc.follow
-    # - navigation.tracking
+    - navigation.sections
+    - navigation.top
+    - toc.integrate
+    - toc.follow
+    - navigation.tracking
     - content.code.annotate
   palette:
     - media: "(prefers-color-scheme: light)"
