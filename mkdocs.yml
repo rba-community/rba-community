@@ -12,29 +12,38 @@ plugins:
   # - search
   - minify:
       minify_html: true
-      minify_js: true
-      minify_css: true
 
 markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
   - toc:
       permalink: true
-  - attr_list
-  - meta
-  - admonition
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
   - pymdownx.details
-  - pymdownx.superfences
-  - abbr
-  - pymdownx.snippets
-  - md_in_html
-  - pymdownx.highlight:
-      anchor_linenums: true
-  - pymdownx.inlinehilite
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
   - pymdownx.snippets:
       auto_append:
         - includes/abbreviations.md
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
 
 theme:
   name: material
@@ -43,7 +52,9 @@ theme:
   logo: assets/rba_community.png
   favicon: assets/rba_community.png
   features:
+    - content.code.copy
     # - header.autohide
+    - navigation.footer
     - navigation.indexes
     - navigation.instant
     # - navigation.tabs
@@ -68,6 +79,18 @@ theme:
       toggle:
         icon: material/weather-night
         name: Switch to light mode
+
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/groups/12702283/
+      name: RBA Community LinkedIn Group
+    - icon: fontawesome/brands/github
+      link: https://splunk.github.io/rba/
+      name: RBA Community GitHub
+    - icon: fontawesome/brands/slack
+      link: https://outpost-security.com/slack/
+      name: RBA Community Slack
 
 nav:
   - Home: index.md
