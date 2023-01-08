@@ -34,10 +34,7 @@ The RBA Community Monthly Meetups are a chance for members of the community to c
 
 ![Wakelet](/assets/wakelet.png){ align=left width=200 }
 
-- Blog Posts
-- Vidoes
-- How-To guides
-- and more!
+Wakelet is a central hub for all your RBA resources, including blog posts, how-to guides, videos, and official documentation.
 
 [Visit Wakelet :material-arrow-right:](https://wakelet.com/wake/rqjxuE9hXsCJRwWXsuHr1 "Visit Wakelet"){ .md-button .md-button--primary target="_blank" }
 
@@ -53,8 +50,7 @@ The RBA Community Monthly Meetups are a chance for members of the community to c
 
 ![Outpost Security](/assets/outpost-security.jpg){ align=left width=200 }
 
-- Join our community Slack for Announcements and collaborate with the community! [(Hosted by Outpost Security)](https://outpost-security.com/slack){ target="_blank" }
-- News, Announcements, ask questions about RBA.
+Our Community Slack space, hosted by Outpost Security, is the perfect place to stay up-to-date on announcements, news, and ask questions and engage in discussions with over 600 other members.
 
 [Join RBA Slack Channel :simple-slack:](https://outpost-security.com/slack "Join RBA Slack Channel"){ .md-button .md-button--primary target="_blank" }
 
@@ -70,8 +66,7 @@ The RBA Community Monthly Meetups are a chance for members of the community to c
 
 ![LinkedIn](/assets/linkedin.png){ align=left width=200 }
 
-- Join our community LinkedIn Group for Announcements and collaborate with the community!
-- News and Announcements for the RBA community.
+Our LinkedIn Group is a great way to stay up-to-date on news and announcements, as well as network and connect with new people in the RBA community.
 
 [Join LinkedIn Group :simple-linkedin:](https://www.linkedin.com/groups/12702283/ "Join LinkedIn Group"){ .md-button .md-button--primary target="_blank" }
 
@@ -87,9 +82,7 @@ The RBA Community Monthly Meetups are a chance for members of the community to c
 
 ![LinkedIn](/assets/github.svg){ align=left width=200 }
 
-- Searches: Useful SPL from the RBA community.
-- Dashboards: Simple XML or JSON for Splunk dashboards to streamline risk analysis.
-- Q&A and other discussions.
+The RBA GitHub is a one-stop-shop for searches, dashboards, Q&A, and other discussions with specialized content from the RBA community. Streamline your risk analysis with simple XML or JSON dashboards and find useful SPL searches from other community members.
 
 [Visit RBA GitHub :simple-github:](https://splunk.github.io/rba/ "Visit RBA GitHub"){ .md-button .md-button--primary target="_blank" }
 [Visit Discussion Board :simple-github:](https://github.com/splunk/rba/discussions "Visit Discussion Board"){ .md-button .md-button--primary target="_blank" }
