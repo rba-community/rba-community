@@ -66,19 +66,22 @@ theme:
     - content.code.annotate
   palette:
     - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: indigo
-      accent: indigo
+      scheme: rba-light
+      # primary: indigo
+      # accent: indigo
       toggle:
         icon: material/weather-sunny
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: indigo
-      accent: indigo
+      # primary: indigo
+      # accent: indigo
       toggle:
         icon: material/weather-night
         name: Switch to light mode
+
+extra_css:
+  - stylesheets/extra.css
 
 extra:
   social:

@@ -1,0 +1,20 @@
+[data-md-color-scheme="rba-light"] {
+    --md-primary-fg-color: #F99D1C;
+    --md-primary-fg-color--light: #F99D1C;
+    --md-primary-fg-color--dark: #E20082;
+    --md-accent-fg-color: #E20082;
+    --md-accent-fg-color--transparent: #E20082;
+}
+
+:root {
+    --md-primary-fg-color: #E20082;
+    --md-primary-fg-color--light: #F99D1C;
+    --md-primary-fg-color--dark: #E20082;
+    --md-accent-fg-color: #F99D1C;
+    --md-accent-fg-color--transparent: #F99D1C;
+}
+
+/* 
+#E20082 - Pink
+#F99D1C - Orange
+*/
