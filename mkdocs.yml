@@ -53,7 +53,7 @@ theme:
   favicon: assets/rba_community_small.png
   features:
     - content.code.copy
-    # - header.autohide
+    - header.autohide
     - navigation.footer
     - navigation.indexes
     - navigation.instant
