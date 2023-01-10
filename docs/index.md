@@ -15,11 +15,37 @@ Whether you’re new to RBA and ES or a seasoned pro, The RBA Community has some
 
 ### Community Meetups
 
+!!! abstract inline end "Meetups"
+    Tuesday, January 18 @ 9am PT
+
+    Tuesday, February 7 @ 9am PT
+
+    Tuesday, March 7 @ 9am PT
+
+    Tuesday, April 18 @ 9am PT
+
+    Tuesday, May 2 @ 9am PT
+
+    Tuesday, June 6 @ 9am PT
+
 The RBA Community Monthly Meetups are a chance for members of the community to come together, learn from guest speakers, play trivia, and ask questions about risk-based alerting and Splunk Enterprise Security. These meetups provide an opportunity for members to stay up-to-date on the latest developments and best practices in the field, as well as connect with other professionals who are interested in RBA. Whether you’re a newcomer to the community or an experienced member, there’s something for everyone at the RBA Community Monthly Meetups. So come join us and be a part of the conversation!
 
 [RSVP to Community Meetups :octicons-link-external-16:](https://splunk.webex.com/webappng/sites/splunk/webinar/webinarSeries/register/341d3ab1cfad4b85a23eea7e1969d58d "RSVP to Community Meetups"){ .md-button .md-button--primary target="_blank" }
 
 ### "The Office" Hours
+
+!!! abstract inline end "“The Office” Hours"
+    Tuesday, January 31 @ 9am PT
+
+    Tuesday, February 28 @ 9am PT
+
+    Tuesday, March 21 @ 9am PT
+
+    Tuesday, April 25 @ 9am PT
+
+    Tuesday, May 16 @ 9am PT
+
+    Tuesday, June 20 @ 9am PT
 
 "The Office" Hours is a monthly webinar series that provides a platform for members of the RBA Community to ask questions and get expert insights on risk-based alerting and Splunk Enterprise Security. Hosted by Elizabeth, Ryan, and [ZachTheSplunker](https://zachthesplunker.com/){ target="_blank" }, these sessions are an “ask me anything” format where attendees can submit questions in advance or ask them live during the webinar. Each episode features subject matter experts from the community who are knowledgeable about RBA and willing to share their expertise with attendees. If you’re looking for answers to your questions about RBA, ES, or the RBA Community, “The Office” Hours is the perfect place to get them. If you’re an RBA subject matter expert and would like to be a panelist, please don’t hesitate to contact us!
 
