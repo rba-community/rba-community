@@ -51,11 +51,13 @@ markdown_extensions:
 
 theme:
   name: material
+  custom_dir: overrides
   icon:
     repo: fontawesome/brands/github
   logo: assets/rba_community_small.png
   favicon: assets/rba_community_small.png
   features:
+    - announce.dismiss
     - content.code.copy
     - header.autohide
     - navigation.footer

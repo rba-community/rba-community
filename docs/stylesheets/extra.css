@@ -14,6 +14,17 @@
     --md-accent-fg-color--transparent: #F99D1C;
 }
 
+.linkedin {
+    color: #0A66C2;
+}
+
+.slack {
+    color: #4A154B;
+}
+
+.md-banner a, .md-banner a:focus, .md-banner a:hover {
+    color: currentColor;
+}
 /* 
 #E20082 - Pink
 #F99D1C - Orange
