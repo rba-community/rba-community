@@ -63,7 +63,7 @@ The RBA Community Monthly Meetups are a chance for members of the community to c
 
 Wakelet is a central hub for all your RBA resources, including blog posts, how-to guides, videos, and official documentation.
 
-[Visit Wakelet :material-arrow-right:](https://wakelet.com/wake/rqjxuE9hXsCJRwWXsuHr1 "Visit Wakelet"){ .md-button .md-button--primary target="_blank" }
+[Visit Wakelet :octicons-link-external-16:](https://wakelet.com/wake/rqjxuE9hXsCJRwWXsuHr1 "Visit Wakelet"){ .md-button .md-button--primary target="_blank" }
 
 </div>
 
