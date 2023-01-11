@@ -1,3 +1,7 @@
+/* 
+#E20082 - Pink
+#F99D1C - Orange
+*/
 [data-md-color-scheme="rba-light"] {
     --md-primary-fg-color: #F99D1C;
     --md-primary-fg-color--light: #F99D1C;
@@ -25,7 +29,25 @@
 .md-banner a, .md-banner a:focus, .md-banner a:hover {
     color: currentColor;
 }
-/* 
-#E20082 - Pink
-#F99D1C - Orange
-*/
+
+@keyframes heart {
+
+    0%,
+    40%,
+    80%,
+    100% {
+        transform: scale(1);
+        color: #F99D1C;
+    }
+
+    20%,
+    60%,
+    80% {
+        transform: scale(1.25);
+        color: #E20082;
+    }
+}
+
+.heart {
+    animation: heart 3000ms infinite;
+}
