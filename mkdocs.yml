@@ -63,7 +63,7 @@ theme:
     - navigation.footer
     - navigation.indexes
     - navigation.instant
-    # - navigation.tabs
+    - navigation.tabs
     - navigation.sections
     - navigation.top
     - toc.integrate
@@ -103,3 +103,4 @@ extra:
 
 nav:
   - Home: index.md
+  - The Risky Times: risky-times/index.md
