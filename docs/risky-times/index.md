@@ -1,4 +1,10 @@
+---
+description: In each edition of The Risky Times, you can expect to find a variety of content designed to help you stay up-to-date on the latest developments in the field, learn from experts and peers, and grow your skills and knowledge. From in-depth articles and interviews to practical tips and best practices, we've got something for everyone.
+---
+
 # The Risky Times
+
+In each edition of The Risky Times, you can expect to find a variety of content designed to help you stay up-to-date on the latest developments in the field, learn from experts and peers, and grow your skills and knowledge. From in-depth articles and interviews to practical tips and best practices, we've got something for everyone.
 
 ## [January 2023 Edition][jan-2023]
 
