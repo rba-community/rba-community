@@ -16,7 +16,7 @@ Whether you’re new to RBA and ES or a seasoned pro, The RBA Community has some
 ### Community Meetups
 
 !!! abstract inline end "Meetups"
-    Tuesday, January 18 @ 9am PT
+    Wednesday, January 18 @ 9am PT
 
     Tuesday, February 7 @ 9am PT
 

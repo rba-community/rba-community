@@ -51,3 +51,7 @@
 .heart {
     animation: heart 3000ms infinite;
 }
+
+.heart-footer{
+    color: #E20082;
+}
