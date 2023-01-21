@@ -79,14 +79,14 @@ Wakelet is a central hub for all your RBA resources, including blog posts, how-t
 
 Our Community Slack space, hosted by Outpost Security, is the perfect place to stay up-to-date on announcements, news, and ask questions and engage in discussions with over 600 other members.
 
-[Join RBA Slack Channel :simple-slack:](https://outpost-security.com/slack "Join RBA Slack Channel"){ .md-button .md-button--primary target="_blank" }
+[Join The RBA Slack Channel :simple-slack:](https://outpost-security.com/slack "Join The RBA Slack Channel"){ .md-button .md-button--primary target="_blank" }
 
 </div>
 
 ---
 
 ``` markdown title="LinkedIn Group"
-    RBA Community LinkedIn Group
+    The RBA Community LinkedIn Group
 ```
 
 <div class="result" markdown>
@@ -111,7 +111,7 @@ Our LinkedIn Group is a great way to stay up-to-date on news and announcements, 
 
 The RBA GitHub is a one-stop-shop for searches, dashboards, Q&A, and other discussions with specialized content from the RBA community. Streamline your risk analysis with simple XML or JSON dashboards and find useful SPL searches from other community members.
 
-[Visit RBA GitHub :simple-github:](https://splunk.github.io/rba/ "Visit RBA GitHub"){ .md-button .md-button--primary target="_blank" }
+[Visit The RBA GitHub :simple-github:](https://splunk.github.io/rba/ "Visit The RBA GitHub"){ .md-button .md-button--primary target="_blank" }
 [Visit Discussion Board :simple-github:](https://github.com/splunk/rba/discussions "Visit Discussion Board"){ .md-button .md-button--primary target="_blank" }
 
 </div>
