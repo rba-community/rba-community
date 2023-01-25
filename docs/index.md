@@ -51,6 +51,45 @@ The RBA Community Monthly Meetups are a chance for members of the community to c
 
 [RSVP to "The Office" Hours :octicons-link-external-16:](https://splunk.webex.com/webappng/sites/splunk/webinar/webinarSeries/register/bf449ac6ee3042bf81ac93c118d9c8d9 "RSVP to The Office Hours"){ .md-button .md-button--primary target="_blank" }
 
+### Breakout Sessions and Virtual Workshops
+
+#### Breakout Sessions
+
+Breakout sessions are partner led and provide technical guidance on specific components of RBA.
+
+![Date Model Breakout Session hosted by Outpost Security](/assets/feb_2023_dm_breakout.png){ align="right" width="400" }
+
+##### Agenda for upcoming session
+
+_"Talking Shop: The Mechanics of Data Models in Splunk, Hosted by Outpost Security"_ is to provide attendees with a deep understanding of how data models work within the context of RBA (risk-based alerting). The learning objectives for this webinar include:
+
+- Understanding the mechanics of data models and how they are used for RBA and beyond.
+- Ensuring that data models are properly configured for optimal performance.
+- Optimizing fields and data to improve the accuracy and effectiveness of data models.
+- Identifying and onboarding new data sources into existing data models.
+
+During the workshop, attendees will have the opportunity to engage with experts in the field, ask questions, and learn best practices for working with data models.
+
+[RSVP to Breakout Session :octicons-link-external-16:](https://splunk.webex.com/weblink/register/rfb42c8179bac6a10e9f6e679b7501595 "RSVP to Breakout session hosted by Outpost Security"){ .md-button .md-button--primary target="_blank" }
+
+#### Virtual Workshops
+
+The Risk-Based Alerting hands-on workshop is designed to familiarize participants with the RBA methodology used in Splunk Enterprise Security. Our journey will begin with walking through the process of creating Risk Rules and Risk Data Models. From the creation of these Risk Data Models we will cover how these can lead to Risk Notables and Alerting. Users will come away with a better understanding of how to build and engineer their own Risk Rules and Risk Notables in Splunk Enterprise Security and tune these to provide more immediate insights to their analysts.
+
+##### Who Should Attend
+
+The workshop is designed for people on a Security Operations team that are responsible for content creation, usually the Detection Engineering team.
+
+!!! warning "Prerequisite"
+    The Enterprise Security with Risk-Based Alerting Overview and Demo are a required prerequisite for this workshop.
+
+##### Reminder
+
+This is a 4-hour, hands-on event. You will need your laptop, internet access and will need to join a Webex meeting to participate in this workshop.
+
+[RSVP to Virtual Workshop on Apr 13th :octicons-link-external-16:](https://splunk.webex.com/weblink/register/rb1cfc9c9c0ef3aa2a3b457499e608a4e "RSVP to Virtual Workshop on April 13th"){ .md-button .md-button--primary target="_blank" }
+[RSVP to Virtual Workshop on Jun 29th :octicons-link-external-16:](https://splunk.webex.com/weblink/register/r49d713a6ff57cb2780ca5d89d498ea18 "RSVP to Virtual Workshop on June 29th"){ .md-button .md-button--primary target="_blank" }
+
 ## Community Resources
 
 ``` markdown title="Wakelet"
@@ -59,7 +98,7 @@ The RBA Community Monthly Meetups are a chance for members of the community to c
 
 <div class="result" markdown>
 
-![Wakelet](/assets/wakelet.png){ align=left width=200 }
+![Wakelet](/assets/wakelet.png){ align=left width=200 class="no-zoom" }
 
 Wakelet is a central hub for all your RBA resources, including blog posts, how-to guides, videos, and official documentation.
 
@@ -75,7 +114,7 @@ Wakelet is a central hub for all your RBA resources, including blog posts, how-t
 
 <div class="result" markdown>
 
-![Outpost Security](/assets/outpost-security.jpg){ align=left width=200 }
+![Outpost Security](/assets/outpost-security.jpg){ align=left width=200 class="no-zoom" }
 
 Our Community Slack space, hosted by Outpost Security, is the perfect place to stay up-to-date on announcements, news, and ask questions and engage in discussions with over 600 other members.
 
@@ -91,7 +130,7 @@ Our Community Slack space, hosted by Outpost Security, is the perfect place to s
 
 <div class="result" markdown>
 
-![LinkedIn](/assets/linkedin.png){ align=left width=200 }
+![LinkedIn](/assets/linkedin.png){ align=left width=200 class="no-zoom" }
 
 Our LinkedIn Group is a great way to stay up-to-date on news and announcements, as well as network and connect with new people in the RBA community.
 
@@ -107,7 +146,7 @@ Our LinkedIn Group is a great way to stay up-to-date on news and announcements, 
 
 <div class="result" markdown>
 
-![LinkedIn](/assets/github.svg){ align=left width=200 }
+![LinkedIn](/assets/github.svg){ align=left width=200 class="no-zoom" }
 
 The RBA GitHub is a one-stop-shop for searches, dashboards, Q&A, and other discussions with specialized content from the RBA community. Streamline your risk analysis with simple XML or JSON dashboards and find useful SPL searches from other community members.
 
