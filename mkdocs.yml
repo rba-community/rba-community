@@ -4,6 +4,7 @@ site_description: >-
 # edit_uri: ""
 # repo_url: https://github.com/ZachChristensen28/rba-community
 # repo_name: ZachChristensen28/rba-community
+#
 
 plugins:
   - git-revision-date-localized:
