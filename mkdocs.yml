@@ -149,4 +149,7 @@ nav:
   - Home: index.md
   - The Risky Times: risky-times/index.md
   - "\"The Office\" Hour Recordings": office-hours/index.md
-  - Contribute to The RBA Community: contribute/index.md
+  - Community Involvment: 
+      - Contributing: community/contribute.md
+      - RBA Champions: community/rba-champions.md
+    

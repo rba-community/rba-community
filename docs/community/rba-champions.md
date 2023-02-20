@@ -1,0 +1,30 @@
+---
+hide:
+    - feedback
+---
+
+# The RBA Community Challenge Coin Holders! :raised_hands:
+
+[![0001 Mary Lou Prevost](/assets/challenge-coin.png){ class="coin-holder" } 0001 Mary Lou Prevost](https://www.linkedin.com/in/maprevost/ "Follow Mary Lou Prevost"){ target="_blank" }
+
+[![0002 Stuart McIntosh](/assets/challenge-coin.png){ class="coin-holder" } 0002 Stuart McIntosh](https://www.linkedin.com/in/stuartmcintosh/ "Follow Stuart McIntosh"){ target="_blank" }
+
+[![0003 Zach Christensen (ZachTheSplunker)](/assets/challenge-coin.png){ class="coin-holder" } 0003 Zach Christensen (ZachTheSplunker)](https://www.linkedin.com/in/zachthesplunker/ "Follow Zach Christensen (ZachTheSplunker)"){ target="_blank" }
+
+[![0004 Matt Snyder](/assets/challenge-coin.png){ class="coin-holder" } 0004 Matt Snyder](https://www.linkedin.com/in/matthew-snyder-48b39987/ "Follow Matt Snyder"){ target="_blank" }
+
+[![0005 Elizabeth Schaedler](/assets/challenge-coin.png){ class="coin-holder" } 0005 Elizabeth Schaedler](https://www.linkedin.com/in/elizabethschaedler/ "Follow Elizabeth Schaedler"){ target="_blank" }
+
+[![0007 Haylee Mills](/assets/challenge-coin.png){ class="coin-holder" } 0007 Haylee Mills](https://www.linkedin.com/in/7thdrxn/ "Follow Haylee Mills"){ target="_blank" }
+
+[![0027 Patrice Vigil](/assets/challenge-coin.png){ class="coin-holder" } 0027 Patrice Vigil](https://www.linkedin.com/in/patrice-vigil-96a70a52/ "Follow Patrice Vigil"){ target="_blank" }
+
+[![0045 Will Robus](/assets/challenge-coin.png){ class="coin-holder" } 0045 Will Robus](https://www.linkedin.com/in/failfastcheap/ "Follow Will Robus"){ target="_blank" }
+
+[![0047 Ryan Long](/assets/challenge-coin.png){ class="coin-holder" } 0047 Ryan Long](https://www.linkedin.com/in/rrlong89/ "Follow Ryan Long"){ target="_blank" }
+
+[![0067 Suman Gajavelly](/assets/challenge-coin.png){ class="coin-holder" } 0067 Suman Gajavelly](https://www.linkedin.com/in/sumangajavelly/ "Follow Suman Gajavelly"){ target="_blank" }
+
+[![0078 Chris Perkins](/assets/challenge-coin.png){ class="coin-holder" } 0078 Chris Perkins](https://www.linkedin.com/in/cperkins2/ "Follow Chris Perkins"){ target="_blank" }
+
+[![0100 Tatyana Albinder](/assets/challenge-coin.png){ class="coin-holder" } 0100 Tatyana Albinder](https://www.linkedin.com/in/tatyana-rivkah-albinder/ "Follow Tatyana Albinder"){ target="_blank" }
