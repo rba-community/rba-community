@@ -3,8 +3,6 @@ description: The RBA Community is rapidly growing and is looking for new and uni
 
 hide:
     - feedback
-    - toc
-    - navigation
 ---
 
 # Contribute to The RBA Community

@@ -55,3 +55,9 @@
 .heart-footer{
     color: #E20082;
 }
+
+.coin-holder {
+    border-radius: 50%;
+    vertical-align: middle;
+    width: 40px;
+}
