@@ -67,8 +67,8 @@ theme:
   custom_dir: overrides
   icon:
     repo: fontawesome/brands/github
-  logo: assets/rba_community_small.png
-  favicon: assets/rba_community_small.png
+  logo: assets/rba_logo_small.png
+  favicon: assets/favicon-32x32.png
   features:
     - announce.dismiss
     - content.code.copy
