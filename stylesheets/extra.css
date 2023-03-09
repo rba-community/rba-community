@@ -1,0 +1,63 @@
+/* 
+#E20082 - Pink
+#F99D1C - Orange
+*/
+[data-md-color-scheme="rba-light"] {
+    --md-primary-fg-color: #F99D1C;
+    --md-primary-fg-color--light: #F99D1C;
+    --md-primary-fg-color--dark: #E20082;
+    --md-accent-fg-color: #E20082;
+    --md-accent-fg-color--transparent: #E20082;
+}
+
+:root {
+    --md-primary-fg-color: #E20082;
+    --md-primary-fg-color--light: #F99D1C;
+    --md-primary-fg-color--dark: #E20082;
+    --md-accent-fg-color: #F99D1C;
+    --md-accent-fg-color--transparent: #F99D1C;
+}
+
+.linkedin {
+    color: #0A66C2;
+}
+
+.slack {
+    color: #4A154B;
+}
+
+.md-banner a, .md-banner a:focus, .md-banner a:hover {
+    color: currentColor;
+}
+
+@keyframes heart {
+
+    0%,
+    40%,
+    80%,
+    100% {
+        transform: scale(1);
+        color: #F99D1C;
+    }
+
+    20%,
+    60%,
+    80% {
+        transform: scale(1.25);
+        color: #E20082;
+    }
+}
+
+.heart {
+    animation: heart 3000ms infinite;
+}
+
+.heart-footer{
+    color: #E20082;
+}
+
+.coin-holder {
+    border-radius: 50%;
+    vertical-align: middle;
+    width: 40px;
+}
