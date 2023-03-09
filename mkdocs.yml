@@ -148,7 +148,7 @@ copyright: >
 nav:
   - Home: index.md
   - The Risky Times: risky-times/index.md
-  - "\"The Office\" Hour Recordings": office-hours/index.md
+  - Recordings: recordings/index.md
   - Community Involvment: 
       - Contributing: community/contribute.md
       - RBA Champions: community/rba-champions.md
