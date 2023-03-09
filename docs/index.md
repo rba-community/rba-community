@@ -50,28 +50,9 @@ The RBA Community Monthly Meetups are a chance for members of the community to c
 "The Office" Hours is a monthly webinar series that provides a platform for members of the RBA Community to ask questions and get expert insights on risk-based alerting and Splunk Enterprise Security. Hosted by Elizabeth, Ryan, and [ZachTheSplunker](https://zachthesplunker.com/){ target="_blank" }, these sessions are an “ask me anything” format where attendees can submit questions in advance or ask them live during the webinar. Each episode features subject matter experts from the community who are knowledgeable about RBA and willing to share their expertise with attendees. If you’re looking for answers to your questions about RBA, ES, or the RBA Community, “The Office” Hours is the perfect place to get them. If you’re an RBA subject matter expert and would like to be a panelist, please don’t hesitate to contact us!
 
 [RSVP to "The Office" Hours :octicons-link-external-16:](https://splunk.webex.com/webappng/sites/splunk/webinar/webinarSeries/register/bf449ac6ee3042bf81ac93c118d9c8d9 "RSVP to The Office Hours"){ .md-button .md-button--primary target="_blank" }
-[Past Recordings :octicons-video-16:](office-hours/ "See past sessions from The Office Hours."){ .md-button .md-button--primary }
+[Past Recordings :octicons-video-16:](recordings/ "See past sessions from The Office Hours."){ .md-button .md-button--primary }
 
 ### Breakout Sessions and Virtual Workshops
-
-#### Breakout Sessions
-
-Breakout sessions are partner led and provide technical guidance on specific components of RBA.
-
-![Date Model Breakout Session hosted by Outpost Security](/assets/feb_2023_dm_breakout.png){ align="right" width="400" }
-
-##### Agenda for upcoming session
-
-_"Talking Shop: The Mechanics of Data Models in Splunk, Hosted by Outpost Security"_ is to provide attendees with a deep understanding of how data models work within the context of RBA (risk-based alerting). The learning objectives for this webinar include:
-
-- Understanding the mechanics of data models and how they are used for RBA and beyond.
-- Ensuring that data models are properly configured for optimal performance.
-- Optimizing fields and data to improve the accuracy and effectiveness of data models.
-- Identifying and onboarding new data sources into existing data models.
-
-During the workshop, attendees will have the opportunity to engage with experts in the field, ask questions, and learn best practices for working with data models.
-
-[RSVP to Breakout Session :octicons-link-external-16:](https://splunk.webex.com/weblink/register/rfb42c8179bac6a10e9f6e679b7501595 "RSVP to Breakout session hosted by Outpost Security"){ .md-button .md-button--primary target="_blank" }
 
 #### Virtual Workshops
 
