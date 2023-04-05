@@ -9,7 +9,15 @@ hide:
 
 In each edition of The Risky Times, you can expect to find a variety of content designed to help you stay up-to-date on the latest developments in the field, learn from experts and peers, and grow your skills and knowledge. From in-depth articles and interviews to practical tips and best practices, we've got something for everyone.
 
-## [February 2023][feb-2023]
+## [March/April 2023][mar-apr-2023]{ target="_blank" rel="external nofollow" }
+
+- 🚨 Monthly meetup: Tues April 18th, 2023 at 9am PT
+- 🚨 "The Office" Hours: Tues April 25th, 2023 at 9am PT
+- 🚨 RBA Hands-on Workshop: Thur April 13th, 2023 at 10am PT
+
+[See March/April 2023 Edition :octicons-link-external-16:][mar-apr-2023]{ .md-button .md-button--primary target="_blank" rel="external nofollow" }
+
+## [February 2023][feb-2023]{ target="_blank" rel="external nofollow" }
 
 - 🗓 Events (webinars, workshops, and .CONF)
 - 📰 .CONF Call for Speakers
@@ -18,7 +26,7 @@ In each edition of The Risky Times, you can expect to find a variety of content 
 
 [See Feb 2023 Edition :octicons-link-external-16:][feb-2023]{ .md-button .md-button--primary target="_blank" rel="external nofollow" }
 
-## [January 2023 Edition][jan-2023]
+## [January 2023 Edition][jan-2023]{ target="_blank" rel="external nofollow" }
 
 ### Issue Highlights
 
@@ -31,3 +39,4 @@ In each edition of The Risky Times, you can expect to find a variety of content 
 
 [jan-2023]: https://drive.google.com/file/d/1-i93WmemJnAb7gFpiUPbE1LPU1K7doAN/view
 [feb-2023]: https://drive.google.com/file/d/1Bfl8nFudORaEtTQcVx6S1sGueQ7nMPO5/view
+[mar-apr-2023]: https://drive.google.com/file/d/1emhXgkWiow_5wuJIovXFOK64yGRTVc7t/view?usp=sharing
