@@ -21,6 +21,8 @@ hide:
 
 [![0027 Patrice Vigil](/assets/challenge-coin-small.png){ class="coin-holder" } 0027 Patrice Vigil](https://www.linkedin.com/in/patrice-vigil-96a70a52/ "Follow Patrice Vigil"){ target="_blank" }
 
+[![0042 Kelby Shelton](/assets/challenge-coin-small.png){ class="coin-holder" } 0042 Kelby Shelton](https://www.linkedin.com/in/kelby-shelton/ "Follow Kelby Shelton"){ target="_blank" }
+
 [![0045 Will Robus](/assets/challenge-coin-small.png){ class="coin-holder" } 0045 Will Robus](https://www.linkedin.com/in/failfastcheap/ "Follow Will Robus"){ target="_blank" }
 
 [![0047 Ryan Long](/assets/challenge-coin-small.png){ class="coin-holder" } 0047 Ryan Long](https://www.linkedin.com/in/rrlong89/ "Follow Ryan Long"){ target="_blank" }
