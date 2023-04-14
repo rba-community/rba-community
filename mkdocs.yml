@@ -102,9 +102,6 @@ theme:
 extra_css:
   - stylesheets/extra.css
 
-extra_javascript:
-  - javascripts/rum.js
-
 extra:
   consent:
     title: Cookie consent
