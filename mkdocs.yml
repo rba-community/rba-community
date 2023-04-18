@@ -152,4 +152,7 @@ nav:
   - Community Involvment: 
       - Contributing: community/contribute.md
       - RBA Champions: community/rba-champions.md
-    
+  - Partner Support:
+      - partners/index.md
+      - Outpost Security: partners/outpost.md
+      - Support The RBA Community: partners/support.md
