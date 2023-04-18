@@ -1,6 +1,18 @@
 {% extends "base.html" %}
 
 {% block announce %}
+<!-- Splunk RUM -->
+<script src="https://cdn.signalfx.com/o11y-gdi-rum/latest/splunk-otel-web.js" crossorigin="anonymous"></script>
+<script>
+    SplunkRum.init({
+        beaconUrl: "https://rum-ingest.us1.signalfx.com/v1/rum",
+        rumAuth: "EK5fN_cQS_j2hNVDgVCMvA",
+        app: "RBA_Website",
+        environment: "prod"
+    });
+</script>
+<!-- END Splunk RUM -->
+
 For updates join <strong>The RBA Community</strong> on
 <a href="https://www.linkedin.com/groups/12702283/" target="_blank">
     <span class="twemoji linkedin">
@@ -19,25 +31,4 @@ Special thanks to all our contributors and community members!
 <span class="twemoji heart">
     {% include ".icons/octicons/heart-fill-24.svg" %}
 </span>
-{% endblock %}
-
-{% block scripts %}
-<!-- Splunk RUM -->
-<script src="https://cdn.signalfx.com/o11y-gdi-rum/latest/splunk-otel-web.js" crossorigin="anonymous"></script>
-<script>
-    SplunkRum.init({
-        beaconUrl: "https://rum-ingest.us1.signalfx.com/v1/rum",
-        rumAuth: "EK5fN_cQS_j2hNVDgVCMvA",
-        app: "RBA_Website",
-        environment: "prod"
-    });
-</script>
-<!-- END Splunk RUM -->
-
-<script src="{{ 'assets/javascripts/bundle.js' | url }}"></script>
-
-<!-- Custom JavaScript -->
-{% for path in config.extra_javascript %}
-<script src="{{ path | url }}"></script>
-{% endfor %}
 {% endblock %}
