@@ -1,3 +1,10 @@
+---
+description: Leveraging Splunk Partners is a great way to quickstart your journey with Splunk RBA. Here at Splunk we have an amazing ecosystem of Partners.
+
+hide:
+    - feedback
+---
+
 # Partner Support
 
 Leveraging Splunk Partners is a great way to quickstart your journey with Splunk RBA. Here at Splunk we have an amazing ecosystem of Partners. We want to give a special thanks to those partners who are supporting The RBA Community!
