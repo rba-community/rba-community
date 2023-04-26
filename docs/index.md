@@ -56,14 +56,18 @@ The RBA Community Monthly Meetups are a chance for members of the community to c
 
 ### Breakout Session: Crafting Detailed Assets and Identities Lookups
 
-[![SP6](/assets/partners/sp6/sp6_logo_light.png#only-light){ align=left width=250 class=no-zoom }][sp6]{ target=blank }
-[![SP6](/assets/partners/sp6/sp6_logo_dark.png#only-dark){ align=left width=250 class=no-zoom }][sp6]{ target=blank }
+``` markdown title="Crafting Detailed Assets and Identities Lookups"
+    Presented by SP6 | www.sp6.io
+```
 
-#### Presented by [SP6 | www.sp6.io][sp6]{ target=blank }
+<div class="result" markdown>
+
+[![SP6](/assets/partners/sp6/sp6_logo_light.png#only-light){ align=left width=200 class=no-zoom }][sp6]{ target=blank }
+[![SP6](/assets/partners/sp6/sp6_logo_dark.png#only-dark){ align=left width=200 class=no-zoom }][sp6]{ target=blank }
 
 **Wednesday, May 3^rd^, 2023 @ 9am PT**
 
-##### Agenda
+**Agenda**
 
 - Assets & Identity Basics
 - Building Asset & Identity Lookups
@@ -71,9 +75,11 @@ The RBA Community Monthly Meetups are a chance for members of the community to c
 - Adjusting Risk Scoring using A&I fields
 - Q&A
 
-[sp6]: https://www.sp6.io/
-
 [Register for Breakout Session :octicons-link-external-16:](https://splunk.webex.com/weblink/register/rb40b729ec942de922a5524003fcbc004 "Register for Breakout Session"){ .md-button .md-button--primary target="_blank" }
+
+</div>
+
+[sp6]: https://www.sp6.io/
 
 #### Virtual Workshops
 
