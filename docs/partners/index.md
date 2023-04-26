@@ -22,3 +22,18 @@ Leveraging Splunk Partners is a great way to quickstart your journey with Splunk
 [More about Outpost Security](./outpost/ "Outpost Security"){ .md-button .md-button--primary }
 
 </div>
+
+``` markdown title="SP6"
+    https://www.sp6.io/
+```
+
+<div class="result" markdown>
+
+![SP6](/assets/partners/sp6/sp6_logo_light.png#only-light){ align=left width=200 class="no-zoom" }
+![SP6](/assets/partners/sp6/sp6_logo_dark.png#only-dark){ align=left width=200 class="no-zoom" }
+
+[SP6](https://www.sp6.io/){ target=blank } is a top Splunk partner obsessed with customer success. They have expertise in Professional Services, Managed Services, and Software Solutions.
+
+[More about SP6](./sp6/ "SP6"){ .md-button .md-button--primary }
+
+</div>
