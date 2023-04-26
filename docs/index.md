@@ -16,13 +16,13 @@ Whether you’re new to RBA and ES or a seasoned pro, The RBA Community has some
 ### Community Meetups
 
 !!! abstract inline end "Meetups"
-    Wednesday, January 18 @ 9am PT
+    ~~Wednesday, January 18 @ 9am PT~~
 
-    Tuesday, February 7 @ 9am PT
+    ~~Tuesday, February 7 @ 9am PT~~
 
-    Tuesday, March 7 @ 9am PT
+    ~~Tuesday, March 7 @ 9am PT~~
 
-    Tuesday, April 18 @ 9am PT
+    ~~Tuesday, April 18 @ 9am PT~~
 
     Tuesday, May 2 @ 9am PT
 
@@ -35,13 +35,13 @@ The RBA Community Monthly Meetups are a chance for members of the community to c
 ### "The Office" Hours
 
 !!! abstract inline end "“The Office” Hours"
-    Tuesday, January 31 @ 9am PT
+    ~~Tuesday, January 31 @ 9am PT~~
 
-    Tuesday, February 28 @ 9am PT
+    ~~Tuesday, February 28 @ 9am PT~~
 
-    Tuesday, March 21 @ 9am PT
+    ~~Tuesday, March 21 @ 9am PT~~
 
-    Tuesday, April 25 @ 9am PT
+    ~~Tuesday, April 25 @ 9am PT~~
 
     Tuesday, May 16 @ 9am PT
 
@@ -52,7 +52,28 @@ The RBA Community Monthly Meetups are a chance for members of the community to c
 [RSVP to "The Office" Hours :octicons-link-external-16:](https://splunk.webex.com/webappng/sites/splunk/webinar/webinarSeries/register/bf449ac6ee3042bf81ac93c118d9c8d9 "RSVP to The Office Hours"){ .md-button .md-button--primary target="_blank" }
 [Past Recordings :octicons-video-16:](library/ "See past sessions from The Office Hours."){ .md-button .md-button--primary }
 
-### Breakout Sessions and Virtual Workshops
+## Breakout Sessions and Virtual Workshops
+
+### Breakout Session: Crafting Detailed Assets and Identities Lookups
+
+[![SP6](/assets/partners/sp6/sp6_logo_light.png#only-light){ align=left width=250 class=no-zoom }][sp6]{ target=blank }
+[![SP6](/assets/partners/sp6/sp6_logo_dark.png#only-dark){ align=left width=250 class=no-zoom }][sp6]{ target=blank }
+
+#### Presented by [SP6 | www.sp6.io][sp6]{ target=blank }
+
+**Wednesday, May 3^rd^, 2023 @ 9am PT**
+
+##### Agenda
+
+- Assets & Identity Basics
+- Building Asset & Identity Lookups
+- Creating Custom RBA Risk Factors using A&I fields
+- Adjusting Risk Scoring using A&I fields
+- Q&A
+
+[sp6]: https://www.sp6.io/
+
+[Register for Breakout Session :octicons-link-external-16:](https://splunk.webex.com/weblink/register/rb40b729ec942de922a5524003fcbc004 "Register for Breakout Session"){ .md-button .md-button--primary target="_blank" }
 
 #### Virtual Workshops
 
@@ -69,7 +90,6 @@ The workshop is designed for people on a Security Operations team that are respo
 
 This is a 4-hour, hands-on event. You will need your laptop, internet access and will need to join a Webex meeting to participate in this workshop.
 
-[RSVP to Virtual Workshop on Apr 13th :octicons-link-external-16:](https://splunk.webex.com/weblink/register/rb1cfc9c9c0ef3aa2a3b457499e608a4e "RSVP to Virtual Workshop on April 13th"){ .md-button .md-button--primary target="_blank" }
 [RSVP to Virtual Workshop on Jun 29th :octicons-link-external-16:](https://splunk.webex.com/weblink/register/r49d713a6ff57cb2780ca5d89d498ea18 "RSVP to Virtual Workshop on June 29th"){ .md-button .md-button--primary target="_blank" }
 
 ## Community Resources
