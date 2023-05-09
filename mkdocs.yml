@@ -131,15 +131,18 @@ extra:
           note: >-
             Thanks for your feedback!
   social:
+    - icon: material/google-drive
+      link: https://drive.google.com/drive/folders/1t514OI5obxInEmM8PzQZz-JIgcL2LE9G
+      name: The RBA Community Google Drive
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/groups/12702283/
-      name: RBA Community LinkedIn Group
+      name: The RBA Community LinkedIn Group
     - icon: fontawesome/brands/github
       link: https://splunk.github.io/rba/
-      name: RBA Community GitHub
+      name: The RBA Community GitHub
     - icon: fontawesome/brands/slack
       link: https://outpost-security.com/slack/
-      name: RBA Community Slack
+      name: The RBA Community Slack
 
 copyright: >
   Copyright &copy; 2023 The RBA Community –
