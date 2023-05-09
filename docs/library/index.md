@@ -34,6 +34,19 @@ hide:
 
 ## Breakout Sessions
 
+### Crafting Detailed Assets and Identities Lookups Hosted by [SP6](https://www.sp6.io){ target="blank" }
+
+#### Topics
+
+- Assets & Identity Basics
+- Building Asset & Identity Lookups
+- Creating Custom RBA Risk Factors using A&I fields
+- Adjusting Risk Scoring using A&I fields
+- Q&A
+
+[Request Recording :simple-googledrive:](https://forms.gle/ySCMRj3X6ZGXKkas9 "Crafting Detailed Assets and Identities Lookups Recording"){ .md-button .md-button--primary target="_blank" }
+
+
 ### Data Model Mechanic Hosted by [Outpost Security](https://outpost-security.com/){ target="blank" }
 
 _"Talking Shop: The Mechanics of Data Models in Splunk, Hosted by Outpost Security"_ is to provide attendees with a deep understanding of how data models work within the context of RBA (risk-based alerting). The learning objectives for this webinar include:
