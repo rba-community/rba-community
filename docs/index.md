@@ -54,45 +54,18 @@ The RBA Community Monthly Meetups are a chance for members of the community to c
 
 ## Breakout Sessions and Virtual Workshops
 
-### Breakout Session: Crafting Detailed Assets and Identities Lookups
-
-``` markdown title="Crafting Detailed Assets and Identities Lookups"
-    Presented by SP6 | www.sp6.io
-```
-
-<div class="result" markdown>
-
-[![SP6](/assets/partners/sp6/sp6_logo_light.png#only-light){ align=left width=200 class=no-zoom }][sp6]{ target=blank }
-[![SP6](/assets/partners/sp6/sp6_logo_dark.png#only-dark){ align=left width=200 class=no-zoom }][sp6]{ target=blank }
-
-**Wednesday, May 3^rd^, 2023 @ 9am PT**
-
-**Agenda**
-
-- Assets & Identity Basics
-- Building Asset & Identity Lookups
-- Creating Custom RBA Risk Factors using A&I fields
-- Adjusting Risk Scoring using A&I fields
-- Q&A
-
-[Register for Breakout Session :octicons-link-external-16:](https://splunk.webex.com/weblink/register/rb40b729ec942de922a5524003fcbc004 "Register for Breakout Session"){ .md-button .md-button--primary target="_blank" }
-
-</div>
-
-[sp6]: https://www.sp6.io/
-
-#### Virtual Workshops
+### Virtual Workshops
 
 The Risk-Based Alerting hands-on workshop is designed to familiarize participants with the RBA methodology used in Splunk Enterprise Security. Our journey will begin with walking through the process of creating Risk Rules and Risk Data Models. From the creation of these Risk Data Models we will cover how these can lead to Risk Notables and Alerting. Users will come away with a better understanding of how to build and engineer their own Risk Rules and Risk Notables in Splunk Enterprise Security and tune these to provide more immediate insights to their analysts.
 
-##### Who Should Attend
+#### Who Should Attend
 
 The workshop is designed for people on a Security Operations team that are responsible for content creation, usually the Detection Engineering team.
 
 !!! warning "Prerequisite"
     The Enterprise Security with Risk-Based Alerting Overview and Demo are a required prerequisite for this workshop.
 
-##### Reminder
+#### Reminder
 
 This is a 4-hour, hands-on event. You will need your laptop, internet access and will need to join a Webex meeting to participate in this workshop.
 
