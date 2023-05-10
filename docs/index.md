@@ -18,7 +18,8 @@ Whether you’re new to RBA and ES or a seasoned pro, The RBA Community has some
   <figcaption>Hosted and sponsored by <a href="https://outpost-security.com/">Outpost Security</a></figcaption>
 </figure>
 
-Passphrase will be provided to a limited number of RSVPs. Please use your business email to register. No gmail, yahoo. Space is limited.
+!!! danger "Space is limited"
+    Passphrase will be provided to a limited number of RSVPs. Please use your business email to register. No gmail, yahoo.
 
 [RSVP via Eventbrite :simple-eventbrite:][rba-speakeasy]{ .md-button .md-button--primary target="blank" }
 
