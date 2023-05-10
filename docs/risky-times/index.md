@@ -11,29 +11,27 @@ In each edition of The Risky Times, you can expect to find a variety of content 
 
 ## [March/April 2023][mar-apr-2023]{ target="_blank" rel="external nofollow" }
 
-- 🚨 Monthly meetup: Tues April 18th, 2023 at 9am PT
-- 🚨 "The Office" Hours: Tues April 25th, 2023 at 9am PT
-- 🚨 RBA Hands-on Workshop: Thur April 13th, 2023 at 10am PT
+Welcome to the third edition of The Risky Times, the official newsletter of the RBA Community!
+
+We’re glad you decided to spend a few minutes reading about what’s happening in the community. March included a well attended Monthly Meetup and “The Office” Hours! Thank you to everyone who was able to join!
 
 [See March/April 2023 Edition :octicons-link-external-16:][mar-apr-2023]{ .md-button .md-button--primary target="_blank" rel="external nofollow" }
 
 ## [February 2023][feb-2023]{ target="_blank" rel="external nofollow" }
 
-- 🗓 Events (webinars, workshops, and .CONF)
-- 📰 .CONF Call for Speakers
-- 🍏 Outpost Security updated Data Model Mechanic App
-- 🏆 Challenge Coins and POAPs
+Welcome to the second edition of The Risky Times, the official newsletter of the RBA Community! 
+
+We’re glad you decided to spend a few minutes reading about what’s happening in the community.
 
 [See Feb 2023 Edition :octicons-link-external-16:][feb-2023]{ .md-button .md-button--primary target="_blank" rel="external nofollow" }
 
-## [January 2023 Edition][jan-2023]{ target="_blank" rel="external nofollow" }
+## [January 2023][jan-2023]{ target="_blank" rel="external nofollow" }
 
-### Issue Highlights
+Welcome to the first edition of The Risky Times, the official newsletter of the RBA Community! We're so glad you're here!
 
-- 📣 Announcing The RBA Community landing page! Bookmark this! [https://rba.community](https://rba.community){ target="_blank" } 📌
-- 🗓 Events (webinars, workshops, and .CONF)
-- 📰 Updates from [@ZachTheSplunker:material-linkedin:](https://www.linkedin.com/in/zachthesplunker/){ target="_blank" } on the new look and feel of: [https://github.com/splunk/rba](https://github.com/splunk/rba){ target="_blank" } 📌
-- 🏆 Challenge Coins and POAPs
+If you're reading this, you're already a member of The RBA Community – a group of professionals dedicated to enhancing their understanding and expertise in risk-based alerting (RBA) and Splunk Enterprise Security (ES). Whether you're new to RBA and ES or a seasoned pro, the community is here to help you connect, learn, and grow with like-minded individuals who share your passion for these important technologies. In each edition of The Risky Times, you can expect to find a variety of content designed to help you stay up-to-date on the latest developments in the field, learn from experts and peers, and grow your skills and knowledge. From in-depth articles and interviews to practical tips and best practices, we've got something for everyone.
+
+So, if you're ready to take your RBA and ES skills to the next level, stay subscribed to The Risky Times and join us on this journey of continuous learning and growth.
 
 [See Jan 2023 Edition :octicons-link-external-16:][jan-2023]{ .md-button .md-button--primary target="_blank" }
 
