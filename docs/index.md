@@ -11,6 +11,17 @@ Our vision is to be the go-to resource for anyone looking to learn more about RB
 
 Whether you’re new to RBA and ES or a seasoned pro, The RBA Community has something for everyone. We invite you to join us on this journey to enhance your understanding and expertise in RBA and ES – don’t miss out on this opportunity to learn from the best and connect with other professionals in the field.
 
+## The RBA Community presents: a Speakeasy @CONF23
+
+<figure markdown>
+  ![The RBA Speakeasy](/assets/rba-speakeasy.png){ width="600" }
+  <figcaption>Hosted and sponsored by <a href="https://outpost-security.com/">Outpost Security</a></figcaption>
+</figure>
+
+Passphrase will be provided to a limited number of RSVPs. Please use your business email to register. No gmail, yahoo. Space is limited.
+
+[RSVP via Eventbrite :simple-eventbrite:][rba-speakeasy]{ .md-button .md-button--primary target="blank" }
+
 ## "The Office" Hours
 
 Join us at “The Office” Hours, the engaging RBA Community Monthly Meetup! Connect with professionals, learn from guest speakers, and dive into risk-based alerting and Splunk Enterprise Security. Our hosts, Elizabeth, Ryan, and ZachTheSplunker, lead this interactive webinar series, where attendees can ask questions and gain insights from RBA experts. Perfect for newcomers and experienced enthusiasts alike, “The Office” Hours is your gateway to staying informed and connected in the RBA world. Don’t miss out – join the conversation!
@@ -118,3 +129,5 @@ The RBA GitHub is a one-stop-shop for searches, dashboards, Q&A, and other discu
 [Visit Discussion Board :simple-github:](https://github.com/splunk/rba/discussions "Visit Discussion Board"){ .md-button .md-button--primary target="_blank" }
 
 </div>
+
+[rba-speakeasy]: https://www.eventbrite.com/e/a-speakeasy-hosted-by-the-rba-community-tickets-633020059037
