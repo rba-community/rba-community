@@ -1,0 +1,30 @@
+name: Chris Perkins request
+description: Is your name Chris Perkins? Do you have a change for The RBA Community site? Then let's get started.
+labels:
+  - "cp request"
+body:
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: >-
+        Please describe the change or addition you would like to make or an improvement that can be made.
+    validations:
+      required: true
+
+  - type: textarea
+    id: related-links
+    attributes:
+      label: Related links
+      description: >-
+        Please list all links to the sections of [our documentation](https://rba.community) that are impacted by the issue you described above. Add screenshots, where applicable. Additionally, list links to any files that should be included.
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposed-change
+    attributes:
+      label: Additional context or dad jokes (optional)
+      description: >-
+        Jokes are appreciated.
