@@ -1,7 +1,7 @@
 # Welcome to the RBA Community :wave_tone5: :wave_tone1: :wave_tone3: :wave_tone4: :wave_tone2:
 
-![The RBA Community](/assets/rba_community_light.png#only-light){ align=right width=350 }
-![The RBA Community](/assets/rba_community_dark.png#only-dark){ align=right width=350 }
+![The RBA Community](/assets/rba_community_light.png#only-light){ align=right width=350 class="no-zoom" }
+![The RBA Community](/assets/rba_community_dark.png#only-dark){ align=right width=350 class="no-zoom" }
 
 ## About the Community
 
