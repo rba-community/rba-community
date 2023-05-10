@@ -11,7 +11,7 @@ hide:
 
 "The Office" Hours is a monthly webinar series that provides a platform for members of the RBA Community to ask questions and get expert insights on risk-based alerting and Splunk Enterprise Security. Hosted by Elizabeth, Ryan, and ZachTheSplunker, these sessions are an "ask me anything" format where attendees can submit questions in advance or ask them live during the webinar. Each episode features subject matter experts from the community who are knowledgeable about RBA and willing to share their expertise with attendees. If you’re looking for answers to your questions about RBA, ES, or the RBA Community, “The Office” Hours is the perfect place to get them. If you’re an RBA subject matter expert and would like to be a panelist, please don’t hesitate to contact us!
 
-:simple-googledrive: **April 2023** [S02E04: One Year Anniversary](#coming-soon){ target="blank" }
+:simple-googledrive: **April 2023** [S02E04: One Year Anniversary](https://drive.google.com/file/d/1EvnZnDm2Q5OpWj5N4KJkS6ZVuebfSEfy/view?usp=share_link){ target="blank" }
 
 :simple-googledrive: **March 2023** [S02E03: Maximizing Your RBA Strategy](https://drive.google.com/file/d/18IsT_BnRhEcpSdmhlj2Jv4bIeoIC70Nt/view?usp=share_link){ target="blank" }
 
