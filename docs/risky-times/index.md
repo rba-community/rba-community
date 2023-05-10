@@ -28,4 +28,4 @@ In each edition of The Risky Times, you can expect to find a variety of content 
 [jan-2023]: https://drive.google.com/file/d/1-i93WmemJnAb7gFpiUPbE1LPU1K7doAN/view
 [feb-2023]: https://drive.google.com/file/d/1Bfl8nFudORaEtTQcVx6S1sGueQ7nMPO5/view
 [mar-apr-2023]: https://drive.google.com/file/d/1emhXgkWiow_5wuJIovXFOK64yGRTVc7t/view?usp=sharing
-[may-2023]: #coming-soon
+[may-2023]: #coming-soon/
