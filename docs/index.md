@@ -21,7 +21,7 @@ Whether you’re new to RBA and ES or a seasoned pro, The RBA Community has some
 !!! danger "Space is limited"
     Passphrase will be provided to a limited number of RSVPs. Please use your business email to register. No gmail, yahoo.
 
-[RSVP via Eventbrite :simple-eventbrite:][rba-speakeasy]{ .md-button .md-button--primary target="blank" }
+    [RSVP via Eventbrite :simple-eventbrite:][rba-speakeasy]{ .md-button .md-button--primary target="blank" }
 
 ## "The Office" Hours
 
