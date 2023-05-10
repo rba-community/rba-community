@@ -47,9 +47,6 @@ The Risk-Based Alerting hands-on workshop is designed to familiarize participant
 
 The workshop is designed for people on a Security Operations team that are responsible for content creation, usually the Detection Engineering team.
 
-!!! warning "Prerequisite"
-    The Enterprise Security with Risk-Based Alerting Overview and Demo are a required prerequisite for this workshop.
-
 #### Reminder
 
 This is a 4-hour, hands-on event. You will need your laptop, internet access and will need to join a Webex meeting to participate in this workshop.
