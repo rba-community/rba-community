@@ -5,4 +5,6 @@ updates:
     directory: "/docs"
     schedule:
       interval: "weekly"
-    target-branch: "develop"
+      day: "sunday"
+      time: "09:00"
+    target-branch: "docs/update"
