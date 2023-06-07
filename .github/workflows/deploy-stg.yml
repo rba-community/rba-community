@@ -23,7 +23,7 @@ jobs:
           chmod 600 ~/.ssh/id_ed25519
           host="${{ secrets.STG_HOST }}"
           hosts="$(dig +short "$host" | grep -v '\.$' | sed -z 's|\n|,|g')$host"
-          ssh-keyscan -H "$hosts" > ~/.ssh/known_hosts
+          ssh-keyscan -H "$hosts" > ~/.ssh/known_hosts || :
       - name: Run script
         run: |
           ssh -p ${{ secrets.SSH_PORT }} ${{ secrets.SSH_USER }}@${{ secrets.STG_HOST }} 'deploy-docs ${{ github.repositoryUrl }}'
