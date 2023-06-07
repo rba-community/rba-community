@@ -23,7 +23,6 @@ jobs:
           chmod 600 ~/.ssh/id_ed25519
           host="${{ secrets.STG_HOST }}"
           hosts="$(dig +short "$host" | grep -v '\.$' | sed -z 's|\n|,|g')$host"
-          which ssh-keyscan
           ssh-keyscan -H "$hosts" > ~/.ssh/known_hosts
       - name: Run script
         run: |
