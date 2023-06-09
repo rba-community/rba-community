@@ -26,4 +26,4 @@ jobs:
           ssh-keyscan -p ${{ secrets.SSH_PORT }} -H "$hosts" > ~/.ssh/known_hosts
       - name: Run script
         run: |
-          ssh -t -p ${{ secrets.SSH_PORT }} ${{ secrets.SSH_USER }}@${{ secrets.STG_HOST }} '/home/${{ secrets.SSH_USER }}/bin/deploy.sh ${{ github.repositoryUrl }} ${{ github.ref_name }}'
+          ssh -t -p ${{ secrets.SSH_PORT }} ${{ secrets.SSH_USER }}@${{ secrets.STG_HOST }} '/home/${{ secrets.SSH_USER }}/bin/deploy.sh ${{ github.repositoryUrl }} ${{ github.ref }}'
