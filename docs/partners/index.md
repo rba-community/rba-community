@@ -38,16 +38,16 @@ Leveraging Splunk Partners is a great way to quickstart your journey with Splunk
 
 </div>
 
-``` markdown title="Alchemy Security"
-    https://alchemysecurity.com/
+``` markdown title="Alchemy Global Networks"
+    https://www.alchemy-global.net/
 ```
 
 <div class="result" markdown>
 
-![Alchemy Security](/assets/partners/alchemy/alchemy_security_logo.png){ align=left width=200 class="no-zoom" }
+![Alchemy Global Networks](/assets/partners/alchemy/alchemy_logo.svg){ align=left width=200 class="no-zoom" }
 
-[Alchemy Security](https://alchemysecurity.com/){ target=blank }, a recognized market leader in SIEM management solutions, is a Splunk Partner, Reseller, and Managed Services Provider.
+[Alchemy Global Networks](https://www.alchemy-global.net/){ target=blank } is dedicated to providing solutions to customers with skilled professionals that have decades of proven experience.
 
-[More about Alchemy Security](./alchemy/ "Alchemy Security"){ .md-button .md-button--primary }
+[More about Alchemy Global Networks](./alchemy/ "Alchemy Global Networks"){ .md-button .md-button--primary }
 
 </div>
