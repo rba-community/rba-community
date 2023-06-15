@@ -37,3 +37,17 @@ Leveraging Splunk Partners is a great way to quickstart your journey with Splunk
 [More about SP6](./sp6/ "SP6"){ .md-button .md-button--primary }
 
 </div>
+
+``` markdown title="Alchemy Security"
+    https://alchemysecurity.com/
+```
+
+<div class="result" markdown>
+
+![Alchemy Security](/assets/partners/alchemy/alchemy_security_logo.png){ align=left width=200 class="no-zoom" }
+
+[Alchemy Security](https://alchemysecurity.com/){ target=blank }, a recognized market leader in SIEM management solutions, is a Splunk Partner, Reseller, and Managed Services Provider.
+
+[More about Alchemy Security](./alchemy/ "Alchemy Security"){ .md-button .md-button--primary }
+
+</div>
