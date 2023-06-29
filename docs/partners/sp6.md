@@ -1,5 +1,5 @@
 ---
-description: The RBA Community is supported by one of partners SP6. SP6 is a top Splunk partner obsessed with customer success. They have expertise in Professional Services, Managed Services, and Software Solutions.
+description: The RBA Community is supported by our partner, SP6. SP6 is a top Splunk partner obsessed with customer success. They have expertise in Professional Services, Managed Services, and Software Solutions.
 
 hide:
     - feedback
