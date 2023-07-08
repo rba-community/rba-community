@@ -98,33 +98,6 @@ extra_css:
   - stylesheets/extra.css
 
 extra:
-  consent:
-    title: Cookie consent
-    actions:
-      - accept
-      - reject
-      - manage
-    description: >-
-      We use cookies to recognize your repeated visits and preferences, as well
-      as to measure the effectiveness of our documentation and whether users
-      find what they're searching for. With your consent, you're helping us to
-      make our documentation better.
-  analytics:
-    provider: google
-    property: G-NE2FQCZZ3E
-    feedback:
-      title: Was this page helpful?
-      ratings:
-        - icon: material/emoticon-happy-outline
-          name: This page was helpful
-          data: 1
-          note: >-
-            Thanks for your feedback!
-        - icon: material/emoticon-sad-outline
-          name: This page could be improved
-          data: 0
-          note: >-
-            Thanks for your feedback!
   social:
     - icon: material/google-drive
       link: https://drive.google.com/drive/folders/1t514OI5obxInEmM8PzQZz-JIgcL2LE9G
@@ -140,8 +113,7 @@ extra:
       name: The RBA Community Slack
 
 copyright: >
-  Copyright &copy; 2023 The RBA Community –
-  <a href="#__consent">Change cookie settings</a>
+  Copyright &copy; 2023 The RBA Community
 
 nav:
   - Home: index.md

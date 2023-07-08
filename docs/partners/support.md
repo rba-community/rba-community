@@ -1,8 +1,5 @@
 ---
 description: The RBA Community is growing and we would like your help! If you are a Splunk Partner and would like to extend your offerings to The RBA Community, please connect with us!
-
-hide:
-    - feedback
 ---
 
 # Support the RBA Community

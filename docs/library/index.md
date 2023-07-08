@@ -1,8 +1,5 @@
 ---
 description: Catch up on past RBA Community sessions that you may have missed!
-
-hide:
-    - feedback
 ---
 
 # Video Library

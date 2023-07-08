@@ -1,8 +1,5 @@
 ---
 description: The RBA Community is supported by our partner, Alchemy Global Networks. Alchemy Global Networks is dedicated to providing solutions to customers with skilled professionals that have decades of proven experience.
-
-hide:
-    - feedback
 ---
 
 [![Alchemy Global Networks](/assets/partners/alchemy/alchemy_logo.svg){ width=250 class="no-zoom" }][alchemy]{ target=blank }

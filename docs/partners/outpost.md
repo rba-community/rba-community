@@ -1,8 +1,5 @@
 ---
 description: The RBA Community is supported by our partner, Outpost Security. Outpost Security is committed to accelerating the Risk Based Alerting journey for Splunk customers.
-
-hide:
-    - feedback
 ---
 
 ![Outpost Security](/assets/outpost-security.jpg){ width=200 class="no-zoom" }
