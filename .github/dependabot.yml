@@ -7,4 +7,4 @@ updates:
       interval: "weekly"
       day: "sunday"
       time: "09:00"
-    target-branch: "docs/update"
+    target-branch: "main"
