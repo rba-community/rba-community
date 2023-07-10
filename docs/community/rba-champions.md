@@ -1,8 +1,3 @@
----
-hide:
-    - feedback
----
-
 # The RBA Community Challenge Coin Holders! :raised_hands:
 
 !!! tip "Want to earn a challenge coin? Challenge coins are awarded to those who have significantly contributed to The RBA Community."

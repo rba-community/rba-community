@@ -1,0 +1,29 @@
+name: Deploy Staging Docs
+on:
+  pull_request:
+    branches:
+      - main
+      - master
+    paths:
+      - "docs/**"
+      - "mkdocs.yml"
+      - "overrides/**"
+      - "includes/**"
+    types: [opened, ready_for_review]
+  workflow_dispatch:
+
+jobs:
+  deploy-stg-docs:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Create SSH key
+        run: |
+          mkdir -m 700 -p ~/.ssh/
+          echo "${{ secrets.SSH_KEY }}" > ~/.ssh/id_ed25519
+          chmod 600 ~/.ssh/id_ed25519
+          host="${{ secrets.STG_HOST }}"
+          hosts="$(dig +short "$host" | grep -v '\.$' | sed -z 's|\n|,|g')$host"
+          ssh-keyscan -p ${{ secrets.SSH_PORT }} -H "$hosts" > ~/.ssh/known_hosts
+      - name: Run script
+        run: |
+          ssh -t -p ${{ secrets.SSH_PORT }} ${{ secrets.SSH_USER }}@${{ secrets.STG_HOST }} '/home/${{ secrets.SSH_USER }}/bin/deploy.sh ${{ github.repositoryUrl }} ${{ github.head_ref }}'

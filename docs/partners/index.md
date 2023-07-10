@@ -1,8 +1,5 @@
 ---
 description: Leveraging Splunk Partners is a great way to quickstart your journey with Splunk RBA. Here at Splunk we have an amazing ecosystem of Partners.
-
-hide:
-    - feedback
 ---
 
 # Partner Support
@@ -35,5 +32,19 @@ Leveraging Splunk Partners is a great way to quickstart your journey with Splunk
 [SP6](https://www.sp6.io/){ target=blank } is a top Splunk partner obsessed with customer success. They have expertise in Professional Services, Managed Services, and Software Solutions.
 
 [More about SP6](./sp6/ "SP6"){ .md-button .md-button--primary }
+
+</div>
+
+``` markdown title="Alchemy Global Networks"
+    https://www.alchemy-global.net/
+```
+
+<div class="result" markdown>
+
+![Alchemy Global Networks](/assets/partners/alchemy/alchemy_logo.svg){ align=left width=200 class="no-zoom" }
+
+[Alchemy Global Networks](https://www.alchemy-global.net/){ target=blank } is dedicated to providing solutions to customers with skilled professionals that have decades of proven experience.
+
+[More about Alchemy Global Networks](./alchemy/ "Alchemy Global Networks"){ .md-button .md-button--primary }
 
 </div>

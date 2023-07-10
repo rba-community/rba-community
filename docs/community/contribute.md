@@ -1,8 +1,5 @@
 ---
 description: The RBA Community is rapidly growing and is looking for new and unique perspectives on Risk-Based Alerting. If you have experience working with RBA and want to share your journey, the community would love to hear from you!
-
-hide:
-    - feedback
 ---
 
 # Contribute to The RBA Community
