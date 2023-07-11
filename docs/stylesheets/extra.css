@@ -66,3 +66,8 @@
     vertical-align: middle;
     width: 40px;
 }
+
+.disabled-button {
+        opacity: 0.6;
+        cursor: not-allowed !important;
+}

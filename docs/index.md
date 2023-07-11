@@ -32,12 +32,6 @@ Join us at “The Office” Hours, the engaging RBA Community Monthly Meetup! Co
 
 ??? abstract "Upcoming Meetups"
     **All events are hosted at 9 am PT**
-    
-    May 2
-
-    June 6
-
-    July 11
 
     August 8
 
@@ -63,7 +57,7 @@ The workshop is designed for people on a Security Operations team that are respo
 
 This is a 4-hour, hands-on event. You will need your laptop, internet access and will need to join a Webex meeting to participate in this workshop.
 
-[RSVP to Virtual Workshop on Jun 29th :octicons-link-external-16:](https://splunk.webex.com/weblink/register/r49d713a6ff57cb2780ca5d89d498ea18 "RSVP to Virtual Workshop on June 29th"){ .md-button .md-button--primary target="_blank" }
+[Schedule TBA Soon :material-clock-time-ten-outline:](){ .md-button .md-button--primary .disabled-button }
 [Test Webex :material-test-tube:](https://www.webex.com/test-meeting.html "Test Webex meetings"){ .md-button target="blank" }
 
 ## Community Resources
