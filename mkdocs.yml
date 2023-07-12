@@ -135,5 +135,6 @@ nav:
       - Assets & Identities: 
         - SA-CrowdstrikeDevices: apps/asset-identity/sa-crowdstrikedevices.md
         - SA-CrowdStrikeIdentites: apps/asset-identity/sa-crowdstrikeidentities.md
+        - SA-AwsAssets: apps/asset-identity/sa-awsassets.md
       - Learn:
         - threat_object_fun: apps/learn/threat_object_fun.md

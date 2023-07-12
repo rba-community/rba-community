@@ -9,7 +9,7 @@ on:
       - "mkdocs.yml"
       - "overrides/**"
       - "includes/**"
-    types: [opened, ready_for_review]
+    types: [opened, ready_for_review, synchronize]
   workflow_dispatch:
 
 jobs:
