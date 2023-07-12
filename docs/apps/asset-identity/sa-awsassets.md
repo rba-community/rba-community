@@ -7,7 +7,7 @@ tags:
     - AWS
 ---
 
-# SA-CrowdstrikeDevices
+# SA-AwsAssets
 
 ``` markdown title=""
     Supporting Add-on for Splunk Enterprise Security
