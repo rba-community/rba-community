@@ -7,7 +7,7 @@ description: >-
 
 Submit your Splunkbase app to be included among the many apps featured for The RBA Community. 
 
-!!! tip "Only apps hosted on Splunkbase will be accepted."
+!!! warning "Only apps hosted on Splunkbase will be accepted."
     We can assist you with the App Certification process.
 
 
