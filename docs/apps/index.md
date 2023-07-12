@@ -7,6 +7,6 @@ description: >-
 
 Splunk Apps and Add-ons built by The RBA Community members for the members.
 
-## Search by Tag.
+## Search by Tag
 
 [TAGS]

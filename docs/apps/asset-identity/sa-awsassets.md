@@ -15,7 +15,7 @@ tags:
 
 <div class="result" markdown>
 
-![SA-AwsAssetsLogo](https://splunk-sa-aws.ztsplunker.com/assets/sa-aws-logo.svg){ align=left width=200 class="no-zoom" }
+![SA-AwsAssets Logo](https://splunk-sa-aws.ztsplunker.com/assets/sa-aws-logo.svg){ align=left width=200 class="no-zoom" }
 
 This supporting add-on comes with prebuilt content for AWS asset data to be easily used with Splunk Enterprise Security's asset database.
 
