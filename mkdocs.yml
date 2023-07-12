@@ -22,6 +22,8 @@ plugins:
   - search
   - minify:
       minify_html: true
+  - tags:
+      tags_file: apps/index.md
 
 markdown_extensions:
   - abbr
@@ -128,3 +130,10 @@ nav:
       - SP6: partners/sp6.md
       - Alchemy Global Networks: partners/alchemy.md
       - Support The RBA Community: partners/support.md
+  - Community Apps:
+      - apps/index.md
+      - Assets & Identities: 
+        - SA-CrowdstrikeDevices: apps/asset-identity/sa-crowdstrikedevices.md
+        - SA-CrowdStrikeIdentites: apps/asset-identity/sa-crowdstrikeidentities.md
+      - Learn:
+        - threat_object_fun: apps/learn/threat_object_fun.md
