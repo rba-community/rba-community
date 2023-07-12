@@ -1,3 +1,8 @@
+---
+description: >-
+    Submit your Splunkbase app to be included among the many apps featured for The RBA Community.
+---
+
 # Submit your App
 
 Submit your Splunkbase app to be included among the many apps featured for The RBA Community. 
