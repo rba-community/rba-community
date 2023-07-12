@@ -22,6 +22,6 @@ This app helps illustrate setting and leveraging threat objects with Risk-Based 
 - [Documentation](https://github.com/rba-community/threat_object_fun){ target="blank" }
 - [Support](https://github.com/rba-community/threat_object_fun/issues){ target="blank" }
 
-<small>_Authors: Haylee Mills, Stuart McIntosh_</small>
+<small>_Authors: [Haylee Mills](https://www.linkedin.com/in/7thdrxn/){ target="blank" }, [Stuart McIntosh](https://www.linkedin.com/in/stuartmcintosh/){ target="blank" }_</small>
 
 </div>
