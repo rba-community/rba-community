@@ -137,6 +137,8 @@ nav:
         - SA-CrowdStrikeIdentites: apps/asset-identity/sa-crowdstrikeidentities.md
         - SA-AwsAssets: apps/asset-identity/sa-awsassets.md
         - SA-SentinelOneDevices: apps/asset-identity/sa-sentineloneassets.md
+      - Health:
+        - Data Model Mechanic: apps/health/data-model-mechanic.md
       - Learn:
         - threat_object_fun: apps/learn/threat_object_fun.md
       - Submit an App:
