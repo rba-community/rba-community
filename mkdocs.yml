@@ -23,7 +23,7 @@ plugins:
   - minify:
       minify_html: true
   - tags:
-      tags_file: apps/index.md
+      tags_file: apps/tags.md
 
 markdown_extensions:
   - abbr
