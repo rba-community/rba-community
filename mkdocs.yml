@@ -127,4 +127,5 @@ nav:
       - Outpost Security: partners/outpost.md
       - SP6: partners/sp6.md
       - Alchemy Global Networks: partners/alchemy.md
-      - Support The RBA Community: partners/support.md
+      - Support The RBA Community: 
+        - partners/support/index.md
