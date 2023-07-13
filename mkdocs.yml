@@ -124,6 +124,19 @@ nav:
   - Community Involvment: 
       - Contributing: community/contribute.md
       - RBA Champions: community/rba-champions.md
+      - Community Apps:
+        - apps/index.md
+        - Assets & Identities: 
+          - SA-CrowdstrikeDevices: apps/asset-identity/sa-crowdstrikedevices.md
+          - SA-CrowdStrikeIdentites: apps/asset-identity/sa-crowdstrikeidentities.md
+          - SA-AwsAssets: apps/asset-identity/sa-awsassets.md
+          - SA-SentinelOneDevices: apps/asset-identity/sa-sentineloneassets.md
+        - Health:
+          - Data Model Mechanic: apps/health/data-model-mechanic.md
+        - Learn:
+          - threat_object_fun: apps/learn/threat_object_fun.md
+        - Submit an App:
+          - apps/submit/index.md
   - Partner Support:
       - partners/index.md
       - Outpost Security: partners/outpost.md
@@ -131,16 +144,3 @@ nav:
       - Alchemy Global Networks: partners/alchemy.md
       - Support The RBA Community: 
           - partners/support/index.md
-  - Community Apps:
-      - apps/index.md
-      - Assets & Identities: 
-        - SA-CrowdstrikeDevices: apps/asset-identity/sa-crowdstrikedevices.md
-        - SA-CrowdStrikeIdentites: apps/asset-identity/sa-crowdstrikeidentities.md
-        - SA-AwsAssets: apps/asset-identity/sa-awsassets.md
-        - SA-SentinelOneDevices: apps/asset-identity/sa-sentineloneassets.md
-      - Health:
-        - Data Model Mechanic: apps/health/data-model-mechanic.md
-      - Learn:
-        - threat_object_fun: apps/learn/threat_object_fun.md
-      - Submit an App:
-        - apps/submit/index.md
