@@ -22,6 +22,8 @@ plugins:
   - search
   - minify:
       minify_html: true
+  - tags:
+      tags_file: community/apps/tags.md
 
 markdown_extensions:
   - abbr
@@ -122,10 +124,25 @@ nav:
   - Community Involvment: 
       - Contributing: community/contribute.md
       - RBA Champions: community/rba-champions.md
+      - Featured Apps:
+        - community/apps/index.md
+        - Assets & Identities: 
+          - SA-CrowdstrikeDevices: community/apps/asset-identity/sa-crowdstrikedevices.md
+          - SA-CrowdStrikeIdentites: community/apps/asset-identity/sa-crowdstrikeidentities.md
+          - SA-AwsAssets: community/apps/asset-identity/sa-awsassets.md
+          - SA-SentinelOneDevices: community/apps/asset-identity/sa-sentineloneassets.md
+        - Health:
+          - Data Model Mechanic: community/apps/health/data-model-mechanic.md
+        - Implement:
+          - Zero-To-One: community/apps/implement/zero-to-one.md
+        - Learn:
+          - threat_object_fun: community/apps/learn/threat_object_fun.md
+        - Submit an App:
+          - community/apps/submit/index.md
   - Partner Support:
       - partners/index.md
       - Outpost Security: partners/outpost.md
       - SP6: partners/sp6.md
       - Alchemy Global Networks: partners/alchemy.md
       - Support The RBA Community: 
-        - partners/support/index.md
+          - partners/support/index.md
