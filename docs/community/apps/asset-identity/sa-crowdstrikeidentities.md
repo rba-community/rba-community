@@ -5,6 +5,7 @@ tags:
     - Supporting Add-on (SA)
     - Identities
     - CrowdStrike
+    - Free
 ---
 
 # SA-CrowdStrikeIdentities

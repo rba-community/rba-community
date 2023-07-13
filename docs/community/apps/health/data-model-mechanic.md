@@ -6,6 +6,7 @@ tags:
     - Datamodels
     - Partner-built
     - CIM
+    - Free
 ---
 
 # Data Model Mechanic

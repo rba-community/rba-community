@@ -5,6 +5,7 @@ tags:
     - Supporting Add-on (SA)
     - Assets
     - CrowdStrike
+    - Free
 ---
 
 # SA-CrowdstrikeDevices

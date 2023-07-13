@@ -1,11 +1,11 @@
 ---
 description: >-
-    Splunk Apps and Add-ons built by The RBA Community members for the community!
+    Splunk Apps and Add-ons featured by The RBA Community. This is a curated list of apps that aim to assist you with your RBA deployment.
 ---
 
-# Community Apps
+# Featured Apps
 
-Splunk Apps and Add-ons built by The RBA Community members for the members.
+Splunk Apps and Add-ons featured by The RBA Community. This is a curated list of apps that aim to assist you with your RBA deployment.
 
 If you have created an app and would like to feature it on The RBA Community Website, [submit your app](./submit/)!
 
