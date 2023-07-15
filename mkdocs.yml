@@ -23,7 +23,7 @@ plugins:
   - minify:
       minify_html: true
   - tags:
-      tags_file: community/apps/tags.md
+      tags_file: apps/tags.md
 
 markdown_extensions:
   - abbr
@@ -124,21 +124,6 @@ nav:
   - Community Involvment: 
       - Contributing: community/contribute.md
       - RBA Champions: community/rba-champions.md
-      - Featured Apps:
-        - community/apps/index.md
-        - Assets & Identities: 
-          - SA-CrowdstrikeDevices: community/apps/asset-identity/sa-crowdstrikedevices.md
-          - SA-CrowdStrikeIdentites: community/apps/asset-identity/sa-crowdstrikeidentities.md
-          - SA-AwsAssets: community/apps/asset-identity/sa-awsassets.md
-          - SA-SentinelOneDevices: community/apps/asset-identity/sa-sentineloneassets.md
-        - Health:
-          - Data Model Mechanic: community/apps/health/data-model-mechanic.md
-        - Implement:
-          - Zero-To-One: community/apps/implement/zero-to-one.md
-        - Learn:
-          - threat_object_fun: community/apps/learn/threat_object_fun.md
-        - Submit an App:
-          - community/apps/submit/index.md
   - Partner Support:
       - partners/index.md
       - Outpost Security: partners/outpost.md
@@ -146,3 +131,34 @@ nav:
       - Alchemy Global Networks: partners/alchemy.md
       - Support The RBA Community: 
           - partners/support/index.md
+  - RBA Apps:
+      - apps/index.md
+      - Assets & Identities: 
+        - SA-CrowdstrikeDevices: apps/asset-identity/sa-crowdstrikedevices.md
+        - SA-CrowdStrikeIdentites: apps/asset-identity/sa-crowdstrikeidentities.md
+        - SA-AwsAssets: apps/asset-identity/sa-awsassets.md
+        - SA-SentinelOneDevices: apps/asset-identity/sa-sentineloneassets.md
+      - Health:
+        - Broken Hosts: apps/health/broken-hosts.md
+        - Data Model Mechanic: apps/health/data-model-mechanic.md
+        - TrackMe: apps/health/trackme.md
+      - Implement:
+        - Anomaly Detection: apps/implement/anomaly-detection.md
+        - Detection Insights: apps/implement/detection-insights.md
+        - Fraud Analytics: apps/implement/fraud-analytics.md
+        - Tuning Framework: apps/implement/tuning-framework.md
+        - Zero-To-One: apps/implement/zero-to-one.md
+      - Learn:
+        - threat_object_fun: apps/learn/threat_object_fun.md
+      - Manage:
+        - ES Config Explorer: apps/manage/es-config-explorer.md
+        - ES Choreographer: apps/manage/es-choreographer.md
+        - Conf Manager: apps/manage/conf-manager.md
+      - Visualizations:
+        - Link Analysis: apps/visualizations/link-analysis.md
+      - Misc Content:
+        - Correlation Rules Runner: apps/misc/correlation-rules-runner.md 
+        - GV-Utils: apps/misc/gv-utils.md
+        - RBA GitHub: apps/misc/rba-github.md
+      - Submit an App:
+        - apps/submit/index.md

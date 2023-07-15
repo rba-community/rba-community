@@ -4,7 +4,6 @@ description: >-
 tags:
     - Learn
     - Threat Objects
-    - Free
 ---
 
 # SA-CrowdStrikeIdentities
