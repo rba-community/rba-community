@@ -2,11 +2,10 @@
 description: >-
     This application helps you troubleshoot and explore the data models supplied with the Splunk Common Information Model (CIM).
 tags:
-    - Health
     - Datamodels
     - Partner-built
     - CIM
-    - Free
+    - Health
 ---
 
 # Data Model Mechanic

@@ -5,7 +5,6 @@ tags:
     - Supporting Add-on (SA)
     - Assets
     - SentinelOne
-    - Free
 ---
 
 # SA-SentinelOneDevices
