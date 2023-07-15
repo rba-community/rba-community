@@ -155,11 +155,11 @@ nav:
             - ES Config Explorer: apps/manage/es-config-explorer.md
             - ES Choreographer: apps/manage/es-choreographer.md
             - Conf Manager: apps/manage/conf-manager.md
-          - Visualizations:
-            - Link Analysis: apps/visualizations/link-analysis.md
           - Misc Content:
             - Correlation Rules Runner: apps/misc/correlation-rules-runner.md 
             - GV-Utils: apps/misc/gv-utils.md
             - RBA GitHub: apps/misc/rba-github.md
+          - Visualizations:
+            - Link Analysis: apps/visualizations/link-analysis.md
       - Submit an App:
         - apps/submit/index.md
