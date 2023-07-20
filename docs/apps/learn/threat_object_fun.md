@@ -6,10 +6,9 @@ tags:
     - Threat Objects
 ---
 
-# SA-CrowdStrikeIdentities
+# threat_object_fun
 
 ``` markdown title=""
-    Supporting Add-on for Splunk Enterprise Security
 ```
 
 <div class="result" markdown>
