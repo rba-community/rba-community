@@ -147,6 +147,7 @@ nav:
             - Anomaly Detection: apps/implement/anomaly-detection.md
             - Detection Insights: apps/implement/detection-insights.md
             - Fraud Analytics: apps/implement/fraud-analytics.md
+            - RBA Navigator: apps/implement/rba-navigator.md
             - Tuning Framework: apps/implement/tuning-framework.md
             - Zero-To-One: apps/implement/zero-to-one.md
           - Learn:
