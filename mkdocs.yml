@@ -145,6 +145,7 @@ nav:
             - TrackMe: apps/health/trackme.md
           - Implement:
             - Anomaly Detection: apps/implement/anomaly-detection.md
+            - Behavioral Profiling: apps/implement/behavioral-profiling.md
             - Detection Insights: apps/implement/detection-insights.md
             - Fraud Analytics: apps/implement/fraud-analytics.md
             - RBA Navigator: apps/implement/rba-navigator.md
