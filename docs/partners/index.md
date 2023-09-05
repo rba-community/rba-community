@@ -12,11 +12,11 @@ Leveraging Splunk Partners is a great way to quickstart your journey with Splunk
 
 <div class="result" markdown>
 
-![Outpost Security](/assets/outpost-security.jpg){ align=left width=200 class="no-zoom" }
+![Outpost Security](../assets/outpost-security.jpg){ align=left width=200 class="no-zoom" }
 
 [Outpost Security](https://outpost-security.com/){ target=blank } is committed to accelerating the Risk Based Alerting journey for Splunk customers. As an initial step on your way to successful implementation of RBA in Splunk ES, they have created a **free review** of your environment.
 
-[More about Outpost Security](./outpost/ "Outpost Security"){ .md-button .md-button--primary }
+[More about Outpost Security](outpost.md "Outpost Security"){ .md-button .md-button--primary }
 
 </div>
 
@@ -26,12 +26,12 @@ Leveraging Splunk Partners is a great way to quickstart your journey with Splunk
 
 <div class="result" markdown>
 
-![SP6](/assets/partners/sp6/sp6_logo_light.png#only-light){ align=left width=200 class="no-zoom" }
-![SP6](/assets/partners/sp6/sp6_logo_dark.png#only-dark){ align=left width=200 class="no-zoom" }
+![SP6](../assets/partners/sp6/sp6_logo_light.png#only-light){ align=left width=200 class="no-zoom" }
+![SP6](../assets/partners/sp6/sp6_logo_dark.png#only-dark){ align=left width=200 class="no-zoom" }
 
 [SP6](https://www.sp6.io/){ target=blank } is a top Splunk partner obsessed with customer success. They have expertise in Professional Services, Managed Services, and Software Solutions.
 
-[More about SP6](./sp6/ "SP6"){ .md-button .md-button--primary }
+[More about SP6](sp6.md "SP6"){ .md-button .md-button--primary }
 
 </div>
 
@@ -41,10 +41,10 @@ Leveraging Splunk Partners is a great way to quickstart your journey with Splunk
 
 <div class="result" markdown>
 
-![Alchemy Global Networks](/assets/partners/alchemy/alchemy_logo.svg){ align=left width=200 class="no-zoom" }
+![Alchemy Global Networks](../assets/partners/alchemy/alchemy_logo.svg){ align=left width=200 class="no-zoom" }
 
 [Alchemy Global Networks](https://www.alchemy-global.net/){ target=blank } is dedicated to providing solutions to customers with skilled professionals that have decades of proven experience.
 
-[More about Alchemy Global Networks](./alchemy/ "Alchemy Global Networks"){ .md-button .md-button--primary }
+[More about Alchemy Global Networks](alchemy.md "Alchemy Global Networks"){ .md-button .md-button--primary }
 
 </div>

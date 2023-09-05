@@ -1,7 +1,7 @@
 # Welcome to the RBA Community :wave_tone5: :wave_tone1: :wave_tone3: :wave_tone4: :wave_tone2:
 
-![The RBA Community](/assets/rba_community_light.png#only-light){ align=right width=350 class="no-zoom" }
-![The RBA Community](/assets/rba_community_dark.png#only-dark){ align=right width=350 class="no-zoom" }
+![The RBA Community](assets/rba_community_light.png#only-light){ align=right width=350 class="no-zoom" }
+![The RBA Community](assets/rba_community_dark.png#only-dark){ align=right width=350 class="no-zoom" }
 
 ## About the Community
 
@@ -16,7 +16,7 @@ Whether you’re new to RBA and ES or a seasoned pro, The RBA Community has some
 Join us at “The Office” Hours, the engaging RBA Community Monthly Meetup! Connect with professionals, learn from guest speakers, and dive into risk-based alerting and Splunk Enterprise Security. Our hosts, Elizabeth, Ryan, and ZachTheSplunker, lead this interactive webinar series, where attendees can ask questions and gain insights from RBA experts. Perfect for newcomers and experienced enthusiasts alike, “The Office” Hours is your gateway to staying informed and connected in the RBA world. Don’t miss out – join the conversation!
 
 [RSVP to "The Office" Hours :octicons-link-external-16:](https://splunk.webex.com/webappng/sites/splunk/webinar/webinarSeries/register/bf449ac6ee3042bf81ac93c118d9c8d9){ .md-button .md-button--primary target="blank" }
-[Past Recordings :octicons-video-16:](library/ "See past sessions from The Office Hours."){ .md-button .md-button--primary }
+[Past Recordings :octicons-video-16:](library/index.md "See past sessions from The Office Hours."){ .md-button .md-button--primary }
 
 ??? abstract "Upcoming Meetups"
     **All events are hosted at 9 am PT**
@@ -56,7 +56,7 @@ This is a 4-hour, hands-on event. You will need your laptop, internet access and
 
 <div class="result" markdown>
 
-![Wakelet](/assets/wakelet.png){ align=left width=200 class="no-zoom" }
+![Wakelet](assets/wakelet.png){ align=left width=200 class="no-zoom" }
 
 Wakelet is a central hub for all your RBA resources, including blog posts, how-to guides, videos, and official documentation.
 
@@ -72,7 +72,7 @@ Wakelet is a central hub for all your RBA resources, including blog posts, how-t
 
 <div class="result" markdown>
 
-![Outpost Security](/assets/outpost-security.jpg){ align=left width=200 class="no-zoom" }
+![Outpost Security](assets/outpost-security.jpg){ align=left width=200 class="no-zoom" }
 
 Our Community Slack space, hosted by Outpost Security, is the perfect place to stay up-to-date on announcements, news, and ask questions and engage in discussions with over 600 other members.
 
@@ -88,7 +88,7 @@ Our Community Slack space, hosted by Outpost Security, is the perfect place to s
 
 <div class="result" markdown>
 
-![LinkedIn](/assets/linkedin.png){ align=left width=200 class="no-zoom" }
+![LinkedIn](assets/linkedin.png){ align=left width=200 class="no-zoom" }
 
 Our LinkedIn Group is a great way to stay up-to-date on news and announcements, as well as network and connect with new people in the RBA community.
 
@@ -104,7 +104,7 @@ Our LinkedIn Group is a great way to stay up-to-date on news and announcements, 
 
 <div class="result" markdown>
 
-![LinkedIn](/assets/github.svg){ align=left width=200 class="no-zoom" }
+![LinkedIn](assets/github.svg){ align=left width=200 class="no-zoom" }
 
 The RBA GitHub is a one-stop-shop for searches, dashboards, Q&A, and other discussions with specialized content from the RBA community. Streamline your risk analysis with simple XML or JSON dashboards and find useful SPL searches from other community members.
 

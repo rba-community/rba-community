@@ -165,4 +165,4 @@ nav:
             - Link Analysis: apps/visualizations/link-analysis.md
       - Submit an App:
         - apps/submit/index.md
-  - DaC: dac/index.md
+  - Detection As Code: dac/index.md

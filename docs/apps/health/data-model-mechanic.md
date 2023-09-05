@@ -16,7 +16,7 @@ tags:
 
 <div class="result" markdown>
 
-![Data Model Mechanic Logo](/assets/outpost-security.jpg){ align=left width=200 class="no-zoom" }
+![Data Model Mechanic Logo](../../assets/outpost-security.jpg){ align=left width=200 class="no-zoom" }
 
 This application helps you troubleshoot and explore the data models supplied with the Splunk Common Information Model (CIM). From the configured indexes, to tags per data model and even the percentage of "unknown" fields values, this app has it all.
 

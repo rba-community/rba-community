@@ -8,23 +8,23 @@ In each edition of The Risky Times, you can expect to find a variety of content 
 
 ## [June 2023][jun-2023]{ target="_blank" rel="external nofollow" }
 
-[![June 2023](/assets/risky-times/risky-times-05-jun.png){ class="no-zoom" }][jun-2023]{ target="_blank" rel="external nofollow" }
+[![June 2023](../assets/risky-times/risky-times-05-jun.png){ class="no-zoom" }][jun-2023]{ target="_blank" rel="external nofollow" }
 
 ## [May 2023][may-2023]{ target="_blank" rel="external nofollow" }
 
-[![March/April 2023](/assets/risky-times/risky-times-04-may.png){ class="no-zoom" }][may-2023]{ target="_blank" rel="external nofollow" }
+[![March/April 2023](../assets/risky-times/risky-times-04-may.png){ class="no-zoom" }][may-2023]{ target="_blank" rel="external nofollow" }
 
 ## [March/April 2023][mar-apr-2023]{ target="_blank" rel="external nofollow" }
 
-[![March/April 2023](/assets/risky-times/risky-times-03-mar.png){ class="no-zoom" }][mar-apr-2023]{ target="_blank" rel="external nofollow" }
+[![March/April 2023](../assets/risky-times/risky-times-03-mar.png){ class="no-zoom" }][mar-apr-2023]{ target="_blank" rel="external nofollow" }
 
 ## [February 2023][feb-2023]{ target="_blank" rel="external nofollow" }
 
-[![February 2023](/assets/risky-times/risky-times-02-feb.png){ class="no-zoom" }][feb-2023]{ target="_blank" rel="external nofollow" }
+[![February 2023](../assets/risky-times/risky-times-02-feb.png){ class="no-zoom" }][feb-2023]{ target="_blank" rel="external nofollow" }
 
 ## [January 2023][jan-2023]{ target="_blank" rel="external nofollow" }
 
-[![January 2023](/assets/risky-times/risky-times-01-jan.png){ class="no-zoom" }][jan-2023]{ target="_blank" rel="external nofollow" }
+[![January 2023](../assets/risky-times/risky-times-01-jan.png){ class="no-zoom" }][jan-2023]{ target="_blank" rel="external nofollow" }
 
 [jan-2023]: https://drive.google.com/file/d/1-i93WmemJnAb7gFpiUPbE1LPU1K7doAN/view
 [feb-2023]: https://drive.google.com/file/d/1Bfl8nFudORaEtTQcVx6S1sGueQ7nMPO5/view
