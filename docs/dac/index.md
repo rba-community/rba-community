@@ -5,6 +5,8 @@
 
     The RBA Community wants to be a front-runner for Detection as Code. We believe this will be crucial for organizations looking to build a modern SOC. So what is Detection as Code? 
 
+## What is DaC
+
 "Detection as Code" (DaC) is a concept that extends the principles of Infrastructure as Code (IaC) and DevOps practices to the realm of security and threat detection. It involves automating the configuration, deployment, and management of security detection and monitoring tools and rulesets using code and automation tools.
 
 Here are the key components and ideas associated with Detection as Code:
