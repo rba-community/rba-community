@@ -37,4 +37,4 @@ In summary, Detection as Code is a security approach that treats security monito
 
 ### Content Development Tools
 
-[Splunk's contentCTL](https://github.com/splunk/contentctl){ target="blank" }
+[Splunk's Content Control Tool (contentCTL)](https://github.com/splunk/contentctl){ target="blank" }
