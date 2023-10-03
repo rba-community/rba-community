@@ -33,6 +33,20 @@ Join us at “The Office” Hours, the engaging RBA Community Monthly Meetup! Co
 
 ## Breakout Sessions and Virtual Workshops
 
+### Engineering Risk Rules and Detections | Breakout Session
+
+![Breakout Session](assets/alchemy-breakout-rr-detections.webp){ align=right width="450" }
+
+> Building and Tuning Reliable Signals That Can Be Heard Above the Noise
+
+This breakout session is geared toward detection engineers, program managers, project managers, threat analysts, and security engineers that are interested in modernizing their detection lifecycle management processes. While one-off detections can be effective, too many noisy rules leave SOCs desperate for a solution. 
+
+Join us as we dive straight into best practices in developing, tuning, and implementing detections, Risk Rules and Risk Incident Rules. As we share our experiences, our goal is to put the processes, tools, and key next steps for success in your hands. That way you too can disperse the noise, reduce your MTTD, establish robust processes for your organization, and shore up a strong defense against the ever growing range of cyberthreats that seek to harm your business.
+
+Presented by [Alchemy Global Networks](https://www.alchemy-global.net/){ target="blank" }
+
+[Register :octicons-link-external-16:](https://splunk.webex.com/weblink/register/r55c9258dfd54bb1d7914cf6fc3899cf3 "Register"){ .md-button .md-button--primary target="blank" }
+
 ### Virtual Workshops
 
 The Risk-Based Alerting hands-on workshop is designed to familiarize participants with the RBA methodology used in Splunk Enterprise Security. Our journey will begin with walking through the process of creating Risk Rules and Risk Data Models. From the creation of these Risk Data Models we will cover how these can lead to Risk Notables and Alerting. Users will come away with a better understanding of how to build and engineer their own Risk Rules and Risk Notables in Splunk Enterprise Security and tune these to provide more immediate insights to their analysts.
