@@ -43,9 +43,11 @@ This breakout session is geared toward detection engineers, program managers, pr
 
 Join us as we dive straight into best practices in developing, tuning, and implementing detections, Risk Rules and Risk Incident Rules. As we share our experiences, our goal is to put the processes, tools, and key next steps for success in your hands. That way you too can disperse the noise, reduce your MTTD, establish robust processes for your organization, and shore up a strong defense against the ever growing range of cyberthreats that seek to harm your business.
 
-Presented by [Alchemy Global Networks](https://www.alchemy-global.net/){ target="blank" }
+<small>_Presented by [Alchemy Global Networks](https://www.alchemy-global.net/){ target="blank" }_</small>
 
 [Register :octicons-link-external-16:](https://splunk.webex.com/weblink/register/r55c9258dfd54bb1d7914cf6fc3899cf3 "Register"){ .md-button .md-button--primary target="blank" }
+
+---
 
 ### Virtual Workshops
 
