@@ -3,7 +3,7 @@
 !!! tip "Want to earn a challenge coin? Challenge coins are awarded to those who have significantly contributed to The RBA Community."
 
 !!! success "Welcome to our latest recipient!"
-    [![Christopher McConkey](../assets/challenge-coin-small.png){ class="coin-holder no-zoom" } Christopher McConkey](https://www.linkedin.com/in/christopher-mcconkey2018/ "Follow Christopher McConkey"){ target="_blank" }
+    [![Gabriel Vasseur](../assets/challenge-coin-small.png){ class="coin-holder no-zoom" } Gabriel Vasseur](https://www.gabrielvasseur.com/ "Follow Gabriel Vasseur"){ target="_blank" }
 
 [![0001 Mary Lou Prevost](../assets/challenge-coin-small.png){ class="coin-holder no-zoom" } 0001 Mary Lou Prevost](https://www.linkedin.com/in/maprevost/ "Follow Mary Lou Prevost"){ target="_blank" }
 
@@ -16,6 +16,8 @@
 [![0005 Elizabeth Schaedler](../assets/challenge-coin-small.png){ class="coin-holder no-zoom" } 0005 Elizabeth Schaedler](https://www.linkedin.com/in/elizabethschaedler/ "Follow Elizabeth Schaedler"){ target="_blank" }
 
 [![0007 Haylee Mills](../assets/challenge-coin-small.png){ class="coin-holder no-zoom" } 0007 Haylee Mills](https://www.linkedin.com/in/7thdrxn/ "Follow Haylee Mills"){ target="_blank" }
+
+ [![0016 Christopher McConkey](../assets/challenge-coin-small.png){ class="coin-holder no-zoom" } 0016 Christopher McConkey](https://www.linkedin.com/in/christopher-mcconkey2018/ "Follow Christopher McConkey"){ target="_blank" }
 
 [![0027 Patrice Vigil](../assets/challenge-coin-small.png){ class="coin-holder no-zoom" } 0027 Patrice Vigil](https://www.linkedin.com/in/patrice-vigil-96a70a52/ "Follow Patrice Vigil"){ target="_blank" }
 
