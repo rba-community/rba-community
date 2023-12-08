@@ -15,7 +15,7 @@ tags:
 
 <div class="result" markdown>
 
-![SA-CrowdstrikeDevices Logo](https://github.com/splunk/SA-CrowdstrikeDevices/blob/main/docs/static/site-logo.webp){ align=left width=200 class="no-zoom" }
+![SA-CrowdstrikeDevices Logo](https://raw.githubusercontent.com/splunk/SA-CrowdstrikeDevices/main/docs/static/site-logo.webp){ align=left width=200 class="no-zoom" }
 
 The SA-CrowdstrikeDevices add-on allows Splunk Enterprise Security admins to use Crowdstrike device data with the Asset Database.
 
