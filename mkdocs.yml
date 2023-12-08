@@ -113,6 +113,9 @@ extra:
     - icon: fontawesome/brands/slack
       link: https://outpost-security.com/slack/
       name: The RBA Community Slack
+  analytics:
+    provider: google
+    property: G-NE2FQCZZ3E
 
 copyright: >
   Copyright &copy; 2023 The RBA Community
