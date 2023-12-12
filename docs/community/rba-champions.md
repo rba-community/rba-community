@@ -3,7 +3,7 @@
 !!! tip "Want to earn a challenge coin? Challenge coins are awarded to those who have significantly contributed to The RBA Community."
 
 !!! success "Welcome to our latest recipient!"
-    [![Gabriel Vasseur](../assets/challenge-coin-small.png){ class="coin-holder no-zoom" } Gabriel Vasseur](https://www.gabrielvasseur.com/ "Follow Gabriel Vasseur"){ target="_blank" }
+    [![Collin Gross](../assets/challenge-coin-small.png){ class="coin-holder no-zoom" } Collin Gross](https://www.linkedin.com/in/collin-r-gross "Follow Gabriel Vasseur"){ target="_blank" }
 
 [![0001 Mary Lou Prevost](../assets/challenge-coin-small.png){ class="coin-holder no-zoom" } 0001 Mary Lou Prevost](https://www.linkedin.com/in/maprevost/ "Follow Mary Lou Prevost"){ target="_blank" }
 
@@ -32,3 +32,5 @@
 [![0078 Chris Perkins](../assets/challenge-coin-small.png){ class="coin-holder" } 0078 Chris Perkins](https://www.linkedin.com/in/cperkins2/ "Follow Chris Perkins"){ target="_blank" }
 
 [![0100 Tatyana Albinder](../assets/challenge-coin-small.png){ class="coin-holder no-zoom" } 0100 Tatyana Albinder](https://www.linkedin.com/in/tatyana-rivkah-albinder/ "Follow Tatyana Albinder"){ target="_blank" }
+
+[![TBD Gabriel Vasseur](../assets/challenge-coin-small.png){ class="coin-holder no-zoom" } TBD Gabriel Vasseur](https://www.gabrielvasseur.com/ "Follow Gabriel Vasseur"){ target="_blank" }
