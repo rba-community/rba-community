@@ -1,15 +1,15 @@
 name: Deploy Staging Docs
 on:
-  pull_request:
-    branches:
-      - main
-      - master
-    paths:
-      - "docs/**"
-      - "mkdocs.yml"
-      - "overrides/**"
-      - "includes/**"
-    types: [opened, ready_for_review, synchronize]
+  # pull_request:
+  #   branches:
+  #     - main
+  #     - master
+  #   paths:
+  #     - "docs/**"
+  #     - "mkdocs.yml"
+  #     - "overrides/**"
+  #     - "includes/**"
+  #   types: [opened, ready_for_review, synchronize]
   workflow_dispatch:
 
 jobs:
