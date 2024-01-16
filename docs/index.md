@@ -18,18 +18,7 @@ Join us at “The Office” Hours, the engaging RBA Community Monthly Meetup! Co
 [RSVP to "The Office" Hours :octicons-link-external-16:](https://splunk.webex.com/webappng/sites/splunk/webinar/webinarSeries/register/bf449ac6ee3042bf81ac93c118d9c8d9){ .md-button .md-button--primary target="blank" }
 [Past Recordings :octicons-video-16:](library/index.md "See past sessions from The Office Hours."){ .md-button .md-button--primary }
 
-??? abstract "Upcoming Meetups"
-    **All events are hosted at 9 am PT**
-
-    August 8
-
-    September 12
-
-    October 10
-
-    November 14
-
-    December 12
+![The RBA Community 2024 Sessions](assets/2024_sessions.webp)
 
 ## Breakout Sessions and Virtual Workshops
 
