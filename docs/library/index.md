@@ -6,26 +6,29 @@ description: Catch up on past RBA Community sessions that you may have missed!
 
 ## "The Office" Hours
 
-"The Office" Hours is a monthly webinar series that provides a platform for members of the RBA Community to ask questions and get expert insights on risk-based alerting and Splunk Enterprise Security. Hosted by Elizabeth, Ryan, and ZachTheSplunker, these sessions are an "ask me anything" format where attendees can submit questions in advance or ask them live during the webinar. Each episode features subject matter experts from the community who are knowledgeable about RBA and willing to share their expertise with attendees. If you’re looking for answers to your questions about RBA, ES, or the RBA Community, “The Office” Hours is the perfect place to get them. If you’re an RBA subject matter expert and would like to be a panelist, please don’t hesitate to contact us!
+"The Office" Hours is a monthly webinar series that provides a platform for members of the RBA Community to ask questions and get expert insights on risk-based alerting and Splunk Enterprise Security. Hosted by ZachTheSplunker, these sessions are an "ask me anything" format where attendees can submit questions in advance or ask them live during the webinar. Each episode features subject matter experts from the community who are knowledgeable about RBA and willing to share their expertise with attendees. If you’re looking for answers to your questions about RBA, ES, or the RBA Community, “The Office” Hours is the perfect place to get them. If you’re an RBA subject matter expert and would like to be a panelist, please don’t hesitate to contact us!
 
-:simple-googledrive: **September 2023** [S02E09](https://drive.google.com/file/d/1eFR_lB9-W7rXvc3tLcdYSX3zFahepdnF/view?usp=sharing){ target="blank" }: Special Guest Speaker: Dennis Morton, Principal Consultant at Arcus Data
+:simple-googledrive: **January 2024** [S02E09](https://drive.google.com/file/d/1A1pj6uRW7kmuyEuwhWGim5v3xmicX4We/view?usp=drive_link){ target="blank" }: Special Guest Speaker: Christian Cloutier, Creator of the app SA-DetectionInsights
 
-:simple-googledrive: **August 2023** [S02E08](https://drive.google.com/file/d/1rq5DzI3tg2NLsjQLQ8IURfYi31VCLrq3/view?usp=drive_link){ target="blank" }: Special Guest Speaker: Donald Murchison, SIEM Engineer at HPE—[Tuning Framework for Splunk](../apps/implement/tuning-framework.md)
+??? abstract "2023 Season"
+    :simple-googledrive: **September 2023** [S02E09](https://drive.google.com/file/d/1eFR_lB9-W7rXvc3tLcdYSX3zFahepdnF/view?usp=sharing){ target="blank" }: Special Guest Speaker: Dennis Morton, Principal Consultant at Arcus Data
 
-:simple-googledrive: **July 2023** [S02E07](https://drive.google.com/file/d/1j-cAoCQLxBDp6-Dx8_NorW21LRiKJoj5/view?usp=sharing){ target="blank" }
+    :simple-googledrive: **August 2023** [S02E08](https://drive.google.com/file/d/1rq5DzI3tg2NLsjQLQ8IURfYi31VCLrq3/view?usp=drive_link){ target="blank" }: Special Guest Speaker: Donald Murchison, SIEM Engineer at HPE—[Tuning Framework for Splunk](../apps/implement/tuning-framework.md)
 
-!!! info "Due to technical reasons, only part of the June Office Hours was recorded."
-    :simple-googledrive: **June 2023** [S02E06](https://drive.google.com/file/d/13CgZSL7jzBClll3-M5NqIZcjDQgHMWXB/view?usp=drive_link){ target="blank" }
+    :simple-googledrive: **July 2023** [S02E07](https://drive.google.com/file/d/1j-cAoCQLxBDp6-Dx8_NorW21LRiKJoj5/view?usp=sharing){ target="blank" }
 
-:simple-googledrive: **May 2023** [S02E05: Executive Round Table](https://drive.google.com/file/d/1ZAzyti7BWP81gRxM81PRNuYBrayMWIh-/view?usp=share_link){ target="blank" }
+    !!! info "Due to technical reasons, only part of the June Office Hours was recorded."
+        :simple-googledrive: **June 2023** [S02E06](https://drive.google.com/file/d/13CgZSL7jzBClll3-M5NqIZcjDQgHMWXB/view?usp=drive_link){ target="blank" }
 
-:simple-googledrive: **April 2023** [S02E04: One Year Anniversary](https://drive.google.com/file/d/1EvnZnDm2Q5OpWj5N4KJkS6ZVuebfSEfy/view?usp=share_link){ target="blank" }
+    :simple-googledrive: **May 2023** [S02E05: Executive Round Table](https://drive.google.com/file/d/1ZAzyti7BWP81gRxM81PRNuYBrayMWIh-/view?usp=share_link){ target="blank" }
 
-:simple-googledrive: **March 2023** [S02E03: Maximizing Your RBA Strategy](https://drive.google.com/file/d/18IsT_BnRhEcpSdmhlj2Jv4bIeoIC70Nt/view?usp=share_link){ target="blank" }
+    :simple-googledrive: **April 2023** [S02E04: One Year Anniversary](https://drive.google.com/file/d/1EvnZnDm2Q5OpWj5N4KJkS6ZVuebfSEfy/view?usp=share_link){ target="blank" }
 
-:simple-googledrive: **February 2023** [S02E02: The Future of Risk Based Alerting](https://drive.google.com/file/d/1kEjvd5YmTUwRdtuQYyrLfRr-FjjAHy_M/view?usp=share_link){ target="blank" }
+    :simple-googledrive: **March 2023** [S02E03: Maximizing Your RBA Strategy](https://drive.google.com/file/d/18IsT_BnRhEcpSdmhlj2Jv4bIeoIC70Nt/view?usp=share_link){ target="blank" }
 
-:simple-googledrive: **January 2023** [S02E01: New Year, New Risk](https://drive.google.com/file/d/1EQd3_q39E0cI9KH1QU1F_7MOLqtZmYgC/view){ target="blank" }
+    :simple-googledrive: **February 2023** [S02E02: The Future of Risk Based Alerting](https://drive.google.com/file/d/1kEjvd5YmTUwRdtuQYyrLfRr-FjjAHy_M/view?usp=share_link){ target="blank" }
+
+    :simple-googledrive: **January 2023** [S02E01: New Year, New Risk](https://drive.google.com/file/d/1EQd3_q39E0cI9KH1QU1F_7MOLqtZmYgC/view){ target="blank" }
 
 ## Breakout Sessions
 
