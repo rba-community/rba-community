@@ -8,7 +8,7 @@ description: Catch up on past RBA Community sessions that you may have missed!
 
 "The Office" Hours is a monthly webinar series that provides a platform for members of the RBA Community to ask questions and get expert insights on risk-based alerting and Splunk Enterprise Security. Hosted by ZachTheSplunker, these sessions are an "ask me anything" format where attendees can submit questions in advance or ask them live during the webinar. Each episode features subject matter experts from the community who are knowledgeable about RBA and willing to share their expertise with attendees. If you’re looking for answers to your questions about RBA, ES, or the RBA Community, “The Office” Hours is the perfect place to get them. If you’re an RBA subject matter expert and would like to be a panelist, please don’t hesitate to contact us!
 
-:simple-googledrive: **January 2024** [S02E09](https://drive.google.com/file/d/1A1pj6uRW7kmuyEuwhWGim5v3xmicX4We/view?usp=drive_link){ target="blank" }: Special Guest Speaker: Christian Cloutier, Creator of the app SA-DetectionInsights
+:simple-googledrive: [**January 2024**](https://drive.google.com/file/d/1A1pj6uRW7kmuyEuwhWGim5v3xmicX4We/view?usp=drive_link){ target="blank" }: Special Guest Speaker: Christian Cloutier, Creator of the app SA-DetectionInsights
 
 ??? abstract "2023 Season"
     :simple-googledrive: **September 2023** [S02E09](https://drive.google.com/file/d/1eFR_lB9-W7rXvc3tLcdYSX3zFahepdnF/view?usp=sharing){ target="blank" }: Special Guest Speaker: Dennis Morton, Principal Consultant at Arcus Data
