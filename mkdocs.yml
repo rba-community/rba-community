@@ -122,7 +122,6 @@ copyright: >
 
 nav:
   - Home: index.md
-  - The Risky Times: risky-times/index.md
   - Video Library: library/index.md
   - Community Involvment: 
       - Contributing: community/contribute.md
