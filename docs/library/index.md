@@ -1,5 +1,5 @@
 ---
-description: Catch up on past RBA Community sessions that you may have missed!
+description: Catch up on past RBA Community sessions you may have missed!
 ---
 
 # Video Library
@@ -34,17 +34,21 @@ description: Catch up on past RBA Community sessions that you may have missed!
 
 ## Breakout Sessions
 
-### Engineering Risk Rules and Detections: Building and Tuning Reliable Signals That Can Be Heard Above the Noise by [Alchemy Global Networks](https://www.alchemy-global.net/){ target="blank" }
+### Engineering Risk Rules and Detections
+
+> Building and Tuning Reliable Signals That Can Be Heard Above the Noise by [Alchemy Global Networks](https://www.alchemy-global.net/){ target="blank" }
 
 #### Topics
 
 - Understand best practices for developing, tuning, and implementing detections, Risk Rules, and Risk Incident Rules to enhance cybersecurity and operational effectiveness.
 - Learn strategies for reducing Mean Time To Detect (MTTD) and mitigating false positives to improve the efficiency of Security Operations Centers (SOCs).
-- Gain insights into establishing robust lifecycle management processes for threat detection, enabling a strong defense against a wide range of cyberthreats.
+- Gain insights into establishing robust lifecycle management processes for threat detection, enabling a strong defense against a wide range of cyber threats.
 
 [Request Recording :simple-googledrive:](https://forms.gle/ayekn4fGtSUmoTxk9){ .md-button .md-button--primary target="_blank" }
 
-### Crafting Detailed Assets and Identities Lookups Hosted by [SP6](https://www.sp6.io){ target="blank" }
+### Crafting Detailed Assets and Identities Lookups
+
+> Hosted by [SP6](https://www.sp6.io){ target="blank" }
 
 #### Topics
 
@@ -57,9 +61,11 @@ description: Catch up on past RBA Community sessions that you may have missed!
 [Request Recording :simple-googledrive:](https://forms.gle/ySCMRj3X6ZGXKkas9 "Crafting Detailed Assets and Identities Lookups Recording"){ .md-button .md-button--primary target="_blank" }
 
 
-### Data Model Mechanic Hosted by [Outpost Security](https://outpost-security.com/){ target="blank" }
+### Data Model Mechanic
 
-_"Talking Shop: The Mechanics of Data Models in Splunk, Hosted by Outpost Security"_ is to provide attendees with a deep understanding of how data models work within the context of RBA (risk-based alerting). The learning objectives for this webinar include:
+> Hosted by [Outpost Security](https://outpost-security.com/){ target="blank" }
+
+#### Topics 
 
 - Understanding the mechanics of data models and how they are used for RBA and beyond.
 - Ensuring that data models are properly configured for optimal performance.
