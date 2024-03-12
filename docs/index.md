@@ -28,19 +28,26 @@ Join us at “The Office” Hours, the engaging RBA Community Monthly Meetup! Co
 
 ### Virtual Workshops
 
-The Risk-Based Alerting hands-on workshop is designed to familiarize participants with the RBA methodology used in Splunk Enterprise Security. Our journey will begin with walking through the process of creating Risk Rules and Risk Data Models. From the creation of these Risk Data Models we will cover how these can lead to Risk Notables and Alerting. Users will come away with a better understanding of how to build and engineer their own Risk Rules and Risk Notables in Splunk Enterprise Security and tune these to provide more immediate insights to their analysts.
+The Risk-Based Alerting hands-on workshop is designed to familiarize participants with the RBA methodology used in Splunk Enterprise Security. Our journey will begin with walking through the process of creating Risk Rules and Risk Data Models. From the creation of these Risk Data Models we will cover how these can lead to Risk Notables and Alerting. Users will better understand how to build and engineer their own risk rules and risk notables in Splunk Enterprise Security and tune these to provide more immediate insights to their analysts.
 
 #### Who Should Attend
 
-The workshop is designed for people on a Security Operations team that are responsible for content creation, usually the Detection Engineering team.
+The workshop is designed for people on a Security Operations team responsible for content creation, usually the Detection Engineering team.
 
 #### Reminder
 
-This is a 4-hour, hands-on event. You will need your laptop, internet access and will need to join a Webex meeting to participate in this workshop.
+This is a 4-hour, hands-on event. You will need your laptop and internet access and will need to join a Webex meeting to participate in this workshop.
 
-**Next Workshop: January 11**
+**Next Workshop: May 2^nd^**
 
-[Register Today :octicons-link-external-16:](https://splunk.webex.com/weblink/register/r39d35133bd3364a5868bf12e96ae1603){ .md-button .md-button--primary target="blank" }
+[Register Today :octicons-link-external-16:](https://splunk.webex.com/weblink/register/radfb895d9f13304a706e398816228528){ .md-button .md-button--primary target="blank" }
+
+**Next Workshop: June 27^th^**
+
+[Register Today :octicons-link-external-16:](https://splunk.webex.com/weblink/register/r3a7219d989680bf604f1c1c538a53d14){ .md-button .md-button--primary target="blank" }
+
+**Test Webex**
+
 [Test Webex :material-test-tube:](https://www.webex.com/test-meeting.html "Test Webex meetings"){ .md-button target="blank" }
 
 ## Community Resources
