@@ -8,6 +8,8 @@ description: Catch up on past RBA Community sessions you may have missed!
 
 "The Office" Hours is a monthly webinar series that provides a platform for members of the RBA Community to ask questions and get expert insights on risk-based alerting and Splunk Enterprise Security. Hosted by ZachTheSplunker, these sessions are an "ask me anything" format where attendees can submit questions in advance or ask them live during the webinar. Each episode features subject matter experts from the community who are knowledgeable about RBA and willing to share their expertise with attendees. If you’re looking for answers to your questions about RBA, ES, or the RBA Community, “The Office” Hours is the perfect place to get them. If you’re an RBA subject matter expert and would like to be a panelist, please don’t hesitate to contact us!
 
+:simple-googledrive: [**April 2024**](https://drive.google.com/file/d/1ClHyj0AFFi16Cu4nP5ObbIjkj-j8VkET/view?usp=drive_link){ target="blank" }: Welcoming Back **Haylee Mills**, Staff Security Strategist at Splunk
+
 :simple-googledrive: [**March 2024**](https://drive.google.com/file/d/12zIVMDm7bCS0qr816VSpG0y8v3FuDWSl/view?usp=sharing){ target="blank" }: Special Guest Speaker: **Mauricio Valazco**, Principal Threat Researcher at Splunk
 
 :simple-googledrive: [**February 2024**](https://drive.google.com/file/d/1z3BZ8JkjKppxKWg932PBGUnUQxFBl7Wg/view?usp=drive_link){ target="blank" }: Special Guest Speaker: **Matthew Joseff**, Fraud Specialist at Splunk
