@@ -138,11 +138,11 @@ nav:
       - Featured Apps:
           - Assets & Identities: 
             - SA-admon: apps/asset-identity/sa-admon.md
-            # - SA-AwsAssets: apps/asset-identity/sa-awsassets.md
+            - SA-AwsAssets: apps/asset-identity/sa-awsassets.md
             - SA-CrowdstrikeDevices: apps/asset-identity/sa-crowdstrikedevices.md
-            # - SA-CrowdStrikeIdentites: apps/asset-identity/sa-crowdstrikeidentities.md
-            # - SA-Rapid7Assets: apps/asset-identity/sa-rapid7assets.md
-            # - SA-SentinelOneDevices: apps/asset-identity/sa-sentineloneassets.md
+            - SA-CrowdStrikeIdentites: apps/asset-identity/sa-crowdstrikeidentities.md
+            - SA-Rapid7Assets: apps/asset-identity/sa-rapid7assets.md
+            - SA-SentinelOneDevices: apps/asset-identity/sa-sentineloneassets.md
           - Health:
             - Broken Hosts: apps/health/broken-hosts.md
             - Data Model Mechanic: apps/health/data-model-mechanic.md
