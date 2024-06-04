@@ -36,7 +36,23 @@ description: Catch up on past RBA Community sessions you may have missed!
 
     :simple-googledrive: **January 2023** [S02E01: New Year, New Risk](https://drive.google.com/file/d/1EQd3_q39E0cI9KH1QU1F_7MOLqtZmYgC/view){ target="blank" }
 
+---
+
 ## Breakout Sessions
+
+### Mastering RBA in Splunk & Splunk SOAR
+
+> Hosted by [SP6](https://www.sp6.io){ target="blank" } <small>_Presented May 30th, 2024_</small>
+
+**Topics**
+
+- Learn how risk-based alerting works and why it's important for modern cybersecurity tactics.
+- Hear about advanced ways to prioritize and respond to alerts based on the level of risk, the context of the threat, and its impact to the business.
+- Find out how to utilize Splunk SOAR in your incident response systems to speed up the process of finding threats and reducing their impact.
+
+[Request Recording :simple-googledrive:](https://forms.gle/S392kyJf6e3Szwjw6){ .md-button .md-button--primary target="_blank" }
+
+---
 
 ### Engineering Risk Rules and Detections
 
@@ -49,6 +65,8 @@ description: Catch up on past RBA Community sessions you may have missed!
 - Gain insights into establishing robust lifecycle management processes for threat detection, enabling a strong defense against a wide range of cyber threats.
 
 [Request Recording :simple-googledrive:](https://forms.gle/ayekn4fGtSUmoTxk9){ .md-button .md-button--primary target="_blank" }
+
+---
 
 ### Crafting Detailed Assets and Identities Lookups
 
@@ -64,6 +82,7 @@ description: Catch up on past RBA Community sessions you may have missed!
 
 [Request Recording :simple-googledrive:](https://forms.gle/ySCMRj3X6ZGXKkas9 "Crafting Detailed Assets and Identities Lookups Recording"){ .md-button .md-button--primary target="_blank" }
 
+---
 
 ### Data Model Mechanic
 
