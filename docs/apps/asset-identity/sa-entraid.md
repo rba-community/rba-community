@@ -8,7 +8,7 @@ tags:
     - Entra ID
 ---
 
-# SA-AzureResources
+# SA-EntraID
 
 ``` markdown title=""
     Supporting Add-on for Splunk Enterprise Security
@@ -16,7 +16,7 @@ tags:
 
 <div class="result" markdown>
 
-![SA-AzureResources Logo](https://splunk.github.io/SA-EntraID/assets/appLogo_2x.png){ align=left width=200 class="no-zoom" }
+![SA-EntraID Logo](https://splunk.github.io/SA-EntraID/assets/appLogo_2x.png){ align=left width=200 class="no-zoom" }
 
 Populate a KV Store with EntraID identities collected from the beta Graph API endpoint using the Splunk Add on for Microsoft Azure. This supporting add-on contains out of the box searches and KV Store lookups for integrating with the Assets and Identities ES Framework.
 
