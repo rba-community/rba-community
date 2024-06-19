@@ -139,6 +139,8 @@ nav:
           - Assets & Identities: 
             - SA-admon: apps/asset-identity/sa-admon.md
             - SA-AwsAssets: apps/asset-identity/sa-awsassets.md
+            - SA-AzureResources: apps/asset-identity/sa-azureresources.md
+            - SA-EntraId: apps/asset-identity/sa-entraid.md
             - SA-CrowdstrikeDevices: apps/asset-identity/sa-crowdstrikedevices.md
             - SA-CrowdStrikeIdentites: apps/asset-identity/sa-crowdstrikeidentities.md
             - SA-Rapid7Assets: apps/asset-identity/sa-rapid7assets.md
