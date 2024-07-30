@@ -18,7 +18,10 @@ tags:
 
 ![Data Model Mechanic Logo](../../assets/outpost-security.jpg){ align=left width=200 class="no-zoom" }
 
-This application helps you troubleshoot and explore the data models supplied with the Splunk Common Information Model (CIM). From the configured indexes, to tags per data model and even the percentage of "unknown" fields values, this app has it all.
+This application helps you troubleshoot and explore the data models supplied with the Splunk Common Information Model (CIM). This app has everything From configured indexes to tags per data model and even the percentage of "unknown" field values.
+
+!!! note
+    You may see "Download Restricted" on Splunkbase. This is a free app for Splunk Customers. Follow the "[Contact us](https://www.outpost-security.com/contact){ target=blank }" button after clicking Download Restricted and request access to the Data Model Mechanic app. Simple as that!
 
 - [Splunkbase](https://splunkbase.splunk.com/app/6430){ target="blank" }
 - [Documentation](https://splunkbase.splunk.com/app/6430){ target="blank" }
