@@ -38,13 +38,7 @@ The workshop is designed for people on a Security Operations team responsible fo
 
 This is a 4-hour, hands-on event. You will need your laptop and internet access and will need to join a Webex meeting to participate in this workshop.
 
-**May 2^nd^**
-
-[Register Today :octicons-link-external-16:](https://splunk.webex.com/weblink/register/radfb895d9f13304a706e398816228528){ .md-button .md-button--primary target="blank" }
-
-**June 27^th^**
-
-[Register Today :octicons-link-external-16:](https://splunk.webex.com/weblink/register/r3a7219d989680bf604f1c1c538a53d14){ .md-button .md-button--primary target="blank" }
+[Registration TBD :octicons-calendar-24:](#virtual-workshops){ .md-button .md-button--primary .disabled-button }
 
 **Test Webex**
 
