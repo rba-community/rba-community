@@ -79,17 +79,16 @@
     80%,
     100% {
         transform: scale(1);
-        color: #F99D1C;
     }
 
     20%,
     60%,
     80% {
         transform: scale(1.25);
-        color: #E20082;
     }
 }
 
 .newicon {
     animation: newicon 3000ms infinite;
+    padding-right: 5px;
 }
