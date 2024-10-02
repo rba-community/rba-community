@@ -15,7 +15,7 @@ Whether you’re new to RBA and ES or a seasoned pro, The RBA Community has some
 
 Join us at “The Office” Hours, the engaging RBA Community Monthly Meetup! Connect with professionals, learn from guest speakers, and dive into risk-based alerting and Splunk Enterprise Security. Our hosts, Elizabeth, Ryan, and ZachTheSplunker, lead this interactive webinar series, where attendees can ask questions and gain insights from RBA experts. Perfect for newcomers and experienced enthusiasts alike, “The Office” Hours is your gateway to staying informed and connected in the RBA world. Don’t miss out – join the conversation!
 
-[:new:{ .newicon } RSVP to "The Office" Hours :octicons-link-external-16:](https://splunk.webex.com/webappng/sites/splunk/webinar/webinarSeries/register/bf449ac6ee3042bf81ac93c118d9c8d9){ .md-button .md-button--primary target="blank" }
+[:new:{ .newicon } RSVP to "The Office" Hours :octicons-link-external-16:](https://cisco.webex.com/webappng/sites/cisco/webinar/webinarSeries/register/d5db73f743c643c387cae885ae6015da){ .md-button .md-button--primary target="blank" }
 [Past Recordings :octicons-video-16:](library/index.md "See past sessions from The Office Hours."){ .md-button .md-button--primary }
 
 ![The RBA Community 2024 Sessions](assets/2024_sessions.webp)
