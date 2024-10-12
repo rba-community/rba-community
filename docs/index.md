@@ -22,11 +22,11 @@ Join us at “The Office” Hours, the engaging RBA Community Monthly Meetup! Co
 
 ## Breakout Sessions and Virtual Workshops
 
-![AGN Breakout Session](assets/rba_agn_breakout.webp){ align="right" width="350" }
-
 ### Tuning In: Optimizing Detections & Risk Rules
 
-_Nov 20^th^ 8 am PT/11 am ET_
+![AGN Breakout Session](assets/rba_agn_breakout.webp){ align="right" width="450" }
+
+_Hosted by [Alchemy Global Networks](https://agn.tech/){ target="blank" } | Nov 20^th^ 8 am PT/11 am ET_
 
 **Agenda**
 
@@ -34,8 +34,8 @@ _Nov 20^th^ 8 am PT/11 am ET_
 * Eliminating allow listing of Risk and Threat Objects
 * Tuning lifecycle management
 
-[RSVP Today! :octicons-link-external-16:](https://cisco.webex.com/weblink/register/r994108c3618109a8c2f8ac30549f8df2){ target="blank" .md-button .md-button--primary }
 
+[RSVP Today! :octicons-link-external-16:](https://cisco.webex.com/weblink/register/r994108c3618109a8c2f8ac30549f8df2){ target="blank" .md-button .md-button--primary }
 [View past breakouts](library/index.md){ .md-button .md-button--primary target="blank" }
 
 ---
