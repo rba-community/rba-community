@@ -50,7 +50,7 @@ description: Catch up on past RBA Community sessions you may have missed!
 
 ## Breakout Sessions
 
-### Tuning In
+### Tuning In: Optimizing Detections & Risk Rules
 
 > Hosted by [Alchemy Global Networks](https://www.alchemy-global.net){ target="blank" } <small>_Presented November 20^th^, 2024_</small>
 
