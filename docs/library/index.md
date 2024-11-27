@@ -50,6 +50,20 @@ description: Catch up on past RBA Community sessions you may have missed!
 
 ## Breakout Sessions
 
+### Tuning In
+
+> Hosted by [Alchemy Global Networks](https://www.alchemy-global.net){ target="blank" } <small>_Presented November 20^th^, 2024_</small>
+
+**Topics**
+
+- Best practices for tuning detections, assets, identities, and threat objects.
+- Eliminating blanket allow listing of risk and threat objects with contextual data.
+- Tuning lifecycle management.
+
+[Request Recording :material-form-select:](https://forms.office.com/r/aHaQ56rmuX){ .md-button .md-button--primary target="_blank" }
+
+---
+
 ### Mastering RBA in Splunk & Splunk SOAR
 
 > Hosted by [SP6](https://www.sp6.io){ target="blank" } <small>_Presented May 30th, 2024_</small>
