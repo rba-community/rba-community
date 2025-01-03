@@ -18,25 +18,13 @@ Join us at “The Office” Hours, the engaging RBA Community Monthly Meetup! Co
 [:new:{ .newicon } RSVP to "The Office" Hours :octicons-link-external-16:](https://cisco.webex.com/webappng/sites/cisco/webinar/webinarSeries/register/d5db73f743c643c387cae885ae6015da){ .md-button .md-button--primary target="blank" }
 [Past Recordings :octicons-video-16:](library/index.md "See past sessions from The Office Hours."){ .md-button .md-button--primary }
 
-![The RBA Community 2024 Sessions](assets/rba_community_2025_dates.webp)
+![The RBA Community 2025 Sessions](assets/rba_community_2025_dates.webp)
 
 ## Breakout Sessions and Virtual Workshops
 
-### Tuning In: Optimizing Detections & Risk Rules
+Attend out Breakout sessions to get hands-on experience with RBA! Upcoming sessions will be announced.
 
-![AGN Breakout Session](assets/rba_agn_breakout.webp){ align="right" width="450" }
-
-_Hosted by [Alchemy Global Networks](https://agn.tech/){ target="blank" } | Nov 20^th^ 8 am PT/11 am ET_
-
-**Agenda**
-
-* Best practices for Tuning Detections
-* Eliminating allow listing of Risk and Threat Objects
-* Tuning lifecycle management
-
-
-[Request recording :octicons-link-external-16:](https://forms.office.com/r/aHaQ56rmuX){ target="blank" .md-button .md-button--primary }
-[View past breakouts](library/index.md){ .md-button .md-button--primary target="blank" }
+[View past breakout sessions](library/index.md){ .md-button .md-button--primary" }
 
 ---
 
@@ -54,7 +42,7 @@ This is a 4-hour, hands-on event. You will need your laptop and internet access 
 
 #### Next session to be announced
 
-[TBA :octicons-link-external-16:](#){ target="blank" .md-button .md-button--primary .disabled-button }
+[TBA](#){ target="blank" .md-button .md-button--primary .disabled-button }
 
 **Test Webex**
 
