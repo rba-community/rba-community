@@ -18,7 +18,7 @@ Join us at “The Office” Hours, the engaging RBA Community Monthly Meetup! Co
 [:new:{ .newicon } RSVP to "The Office" Hours :octicons-link-external-16:](https://cisco.webex.com/webappng/sites/cisco/webinar/webinarSeries/register/d5db73f743c643c387cae885ae6015da){ .md-button .md-button--primary target="blank" }
 [Past Recordings :octicons-video-16:](library/index.md "See past sessions from The Office Hours."){ .md-button .md-button--primary }
 
-![The RBA Community 2024 Sessions](assets/2024_sessions.webp)
+![The RBA Community 2024 Sessions](assets/rba_community_2025_dates.webp)
 
 ## Breakout Sessions and Virtual Workshops
 
@@ -52,9 +52,9 @@ The workshop is designed for people on a Security Operations team responsible fo
 
 This is a 4-hour, hands-on event. You will need your laptop and internet access and will need to join a Webex meeting to participate in this workshop.
 
-#### Next Session: _Nov 7^th^_
+#### Next session to be announced
 
-[RSVP Today! :octicons-link-external-16:](https://splunk.webex.com/weblink/register/r55152f253503ee18d7abc25b84dda9d3){ target="blank" .md-button .md-button--primary }
+[TBA :octicons-link-external-16:](#){ target="blank" .md-button .md-button--primary .disabled-button }
 
 **Test Webex**
 
