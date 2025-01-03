@@ -8,23 +8,28 @@ description: Catch up on past RBA Community sessions you may have missed!
 
 "The Office" Hours is a monthly webinar series that provides a platform for members of the RBA Community to ask questions and get expert insights on risk-based alerting and Splunk Enterprise Security. Hosted by ZachTheSplunker, these sessions are an "ask me anything" format where attendees can submit questions in advance or ask them live during the webinar. Each episode features subject matter experts from the community who are knowledgeable about RBA and willing to share their expertise with attendees. If you’re looking for answers to your questions about RBA, ES, or the RBA Community, “The Office” Hours is the perfect place to get them. If you’re an RBA subject matter expert and would like to be a panelist, please don’t hesitate to contact us!
 
-:simple-googledrive: [**Septemeber 2024**](https://drive.google.com/file/d/1VV2GfLBxSDTIHEfTJ2F7c7xzxNFIFken/view?usp=drive_link){ target="blank" }: Season 3 Episode 9
+??? abstract "2024 Season"
+    :simple-googledrive: [**November 2024**](https://drive.google.com/file/d/1STJxIS2OIvY7MGExvaGeb6oSmplRUFPf/view?usp=drive_link){ target="blank" }: Season 3 Episode 11
 
-:simple-googledrive: [**August 2024**](https://drive.google.com/file/d/1PZOIJAG-PGUplf6BqcTlg-6aaGT-NfeV/view?usp=drive_link){ target="blank" }: Season 3 Episode 8
+    :simple-googledrive: [**October 2024**](https://drive.google.com/file/d/1MxpCeObAg5002NN4Qkw8kcWajmq539Hh/view?usp=drive_link){ target="blank" }: Season 3 Episode 10
 
-:simple-googledrive: [**July 2024**](https://drive.google.com/file/d/1ZlgWAliVu1rrDKXiA9TcX5Y4xwAMQlyg/view?usp=drive_link){ target="blank" }: Season 3 Episode 7
+    :simple-googledrive: [**Septemeber 2024**](https://drive.google.com/file/d/1VV2GfLBxSDTIHEfTJ2F7c7xzxNFIFken/view?usp=drive_link){ target="blank" }: Season 3 Episode 9
 
-:simple-googledrive: [**June 2024**](https://drive.google.com/file/d/18mqAsEJLtnnC8SPRU-9sKO7TE6Blu-6w/view?usp=drive_link){ target="blank" }: Season 3 Episode 6
+    :simple-googledrive: [**August 2024**](https://drive.google.com/file/d/1PZOIJAG-PGUplf6BqcTlg-6aaGT-NfeV/view?usp=drive_link){ target="blank" }: Season 3 Episode 8
 
-:simple-googledrive: [**May 2024**](https://drive.google.com/file/d/1hNZp5ci7_XYif5RVNXt5hJzJmePxUbi2/view?usp=drive_link){ target="blank" }: Season 3 Episode 5
+    :simple-googledrive: [**July 2024**](https://drive.google.com/file/d/1ZlgWAliVu1rrDKXiA9TcX5Y4xwAMQlyg/view?usp=drive_link){ target="blank" }: Season 3 Episode 7
 
-:simple-googledrive: [**April 2024**](https://drive.google.com/file/d/1ClHyj0AFFi16Cu4nP5ObbIjkj-j8VkET/view?usp=drive_link){ target="blank" }: Welcoming Back **Haylee Mills**, Staff Security Strategist at Splunk
+    :simple-googledrive: [**June 2024**](https://drive.google.com/file/d/18mqAsEJLtnnC8SPRU-9sKO7TE6Blu-6w/view?usp=drive_link){ target="blank" }: Season 3 Episode 6
 
-:simple-googledrive: [**March 2024**](https://drive.google.com/file/d/12zIVMDm7bCS0qr816VSpG0y8v3FuDWSl/view?usp=sharing){ target="blank" }: Special Guest Speaker: **Mauricio Valazco**, Principal Threat Researcher at Splunk
+    :simple-googledrive: [**May 2024**](https://drive.google.com/file/d/1hNZp5ci7_XYif5RVNXt5hJzJmePxUbi2/view?usp=drive_link){ target="blank" }: Season 3 Episode 5
 
-:simple-googledrive: [**February 2024**](https://drive.google.com/file/d/1z3BZ8JkjKppxKWg932PBGUnUQxFBl7Wg/view?usp=drive_link){ target="blank" }: Special Guest Speaker: **Matthew Joseff**, Fraud Specialist at Splunk
+    :simple-googledrive: [**April 2024**](https://drive.google.com/file/d/1ClHyj0AFFi16Cu4nP5ObbIjkj-j8VkET/view?usp=drive_link){ target="blank" }: Welcoming Back **Haylee Mills**, Staff Security Strategist at Splunk
 
-:simple-googledrive: [**January 2024**](https://drive.google.com/file/d/1A1pj6uRW7kmuyEuwhWGim5v3xmicX4We/view?usp=drive_link){ target="blank" }: Special Guest Speaker: **Christian Cloutier**, Creator of the app, [SA-DetectionInsights](../apps/implement/detection-insights.md)
+    :simple-googledrive: [**March 2024**](https://drive.google.com/file/d/12zIVMDm7bCS0qr816VSpG0y8v3FuDWSl/view?usp=sharing){ target="blank" }: Special Guest Speaker: **Mauricio Valazco**, Principal Threat Researcher at Splunk
+
+    :simple-googledrive: [**February 2024**](https://drive.google.com/file/d/1z3BZ8JkjKppxKWg932PBGUnUQxFBl7Wg/view?usp=drive_link){ target="blank" }: Special Guest Speaker: **Matthew Joseff**, Fraud Specialist at Splunk
+
+    :simple-googledrive: [**January 2024**](https://drive.google.com/file/d/1A1pj6uRW7kmuyEuwhWGim5v3xmicX4We/view?usp=drive_link){ target="blank" }: Special Guest Speaker: **Christian Cloutier**, Creator of the app, [SA-DetectionInsights](../apps/implement/detection-insights.md)
 
 ??? abstract "2023 Season"
     :simple-googledrive: **September 2023** [S02E09](https://drive.google.com/file/d/1eFR_lB9-W7rXvc3tLcdYSX3zFahepdnF/view?usp=sharing){ target="blank" }: Special Guest Speaker: **Dennis Morton**, Principal Consultant at Arcus Data
