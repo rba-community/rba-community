@@ -40,9 +40,9 @@ The workshop is designed for people on a Security Operations team responsible fo
 
 This is a 4-hour, hands-on event. You will need your laptop and internet access and will need to join a Webex meeting to participate in this workshop.
 
-#### Next session to be announced
+#### Next session - January 16^th^, 2025
 
-[TBA](#){ target="blank" .md-button .md-button--primary .disabled-button }
+[Register :octicons-link-external-16:](https://docs.google.com/forms/d/e/1FAIpQLSc2a8khNLnJnnEuma3qjpzsb1tTroZNOu1UVqfnkEoEEGTzXg/viewform){ target="blank" .md-button .md-button--primary }
 
 **Test Webex**
 
