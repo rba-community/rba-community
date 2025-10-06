@@ -33,11 +33,11 @@
 
 [![0093 Brian Eisele](../assets/challenge-coin-small.png){ class="coin-holder" } 0093 Brian Eisele](https://www.linkedin.com/in/brianeisele/ "Follow Brian Eisele"){ target="_blank" }
 
-[![0094 Amélie Faucher](../assets/challenge-coin-small.png){ class="coin-holder" } 0094 Amélie Faucher]{ target="_blank" }
+[![0094 Amélie Faucher](../assets/challenge-coin-small.png){ class="coin-holder" } 0094 Amélie Faucher](https://www.linkedin.com/in/ "Follow Amélie Faucher"){ target="_blank" }
 
 [![0097 Marie Perry](../assets/challenge-coin-small.png){ class="coin-holder" } 0097 Marie Perry](https://www.linkedin.com/in/cybermarieperry/ "Follow Marie Perry"){ target="_blank" }
 
-[![0098 Jake Clark](../assets/challenge-coin-small.png){ class="coin-holder" } 0098 Jake Clark]{ target="_blank" }
+[![0098 Jake Clark](../assets/challenge-coin-small.png){ class="coin-holder" } 0098 Jake Clark](https://www.linkedin.com/in/ "Follow Jake Clark"){ target="_blank" }
 
 [![0100 Tatyana Albinder](../assets/challenge-coin-small.png){ class="coin-holder no-zoom" } 0100 Tatyana Albinder](https://www.linkedin.com/in/tatyana-rivkah-albinder/ "Follow Tatyana Albinder"){ target="_blank" }
 
