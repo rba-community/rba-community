@@ -90,7 +90,7 @@ Our Community Slack space, hosted by Outpost Security, is the perfect place to s
 
 Our LinkedIn Group is a great way to stay up-to-date on news and announcements, as well as network and connect with new people in the RBA community.
 
-[Join LinkedIn Group :simple-linkedin:](https://www.linkedin.com/groups/12702283/ "Join LinkedIn Group"){ .md-button .md-button--primary target="_blank" }
+[Join LinkedIn Group](https://www.linkedin.com/groups/12702283/ "Join LinkedIn Group"){ .md-button .md-button--primary target="_blank" }
 
 </div>
 
